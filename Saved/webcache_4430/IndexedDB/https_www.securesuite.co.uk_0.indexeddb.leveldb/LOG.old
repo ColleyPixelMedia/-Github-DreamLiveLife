@@ -1,0 +1,8 @@
+2024/11/09-19:29:43.334 3030 Reusing MANIFEST F:/DreamLiveLife - ProjectFile/DreamLiveLife/Saved/webcache_4430\IndexedDB\https_www.securesuite.co.uk_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/09-19:29:43.334 3030 Recovering log #4
+2024/11/09-19:29:43.334 3030 Reusing old log F:/DreamLiveLife - ProjectFile/DreamLiveLife/Saved/webcache_4430\IndexedDB\https_www.securesuite.co.uk_0.indexeddb.leveldb/000004.log 
+2024/11/09-19:29:46.905 394c Level-0 table #8: started
+2024/11/09-19:29:46.905 394c Level-0 table #8: 0 bytes OK
+2024/11/09-19:29:47.231 394c Delete type=0 #4
+2024/11/09-19:29:47.232 394c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/11/09-19:29:47.232 394c Manual compaction at level-1 from (begin) .. (end); will stop at (end)

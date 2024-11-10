@@ -1,0 +1,8 @@
+2024/11/09-19:55:42.381 2d8c Reusing MANIFEST F:/DreamLiveLife - ProjectFile/DreamLiveLife/Saved/webcache_4430\IndexedDB\https_h.online-metrix.net_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/09-19:55:42.382 2d8c Recovering log #7
+2024/11/09-19:55:42.382 2d8c Reusing old log F:/DreamLiveLife - ProjectFile/DreamLiveLife/Saved/webcache_4430\IndexedDB\https_h.online-metrix.net_0.indexeddb.leveldb/000007.log 
+2024/11/09-19:55:46.681 1e14 Level-0 table #11: started
+2024/11/09-19:55:46.682 1e14 Level-0 table #11: 0 bytes OK
+2024/11/09-19:55:46.734 1e14 Delete type=0 #7
+2024/11/09-19:55:46.734 1e14 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/11/09-19:55:46.734 1e14 Manual compaction at level-1 from (begin) .. (end); will stop at (end)
