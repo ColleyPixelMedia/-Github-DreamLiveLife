@@ -1,0 +1,1651 @@
+Stats thread started at 0.303012
+FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-1F8FFA4D40D4AB5B660848A40E20E488
+         Session CrashGUID >====================================================
+No local boot hotfix file found at: [../../../../../-Github-DreamLiveLife/DreamLicLifegithub/Saved/PersistentDownloadDir/HotfixForNextBoot.txt]
+Looking for build plugins target receipt
+Unable to find target receipt in path: ../../../../../-Github-DreamLiveLife/DreamLicLifegithub/Binaries/Win64/*.target
+Loading Mac ini files took 0.05 seconds
+Loading IOS ini files took 0.05 seconds
+Loading VulkanPC ini files took 0.05 seconds
+Loading Android ini files took 0.06 seconds
+Loading TVOS ini files took 0.06 seconds
+Loading Windows ini files took 0.07 seconds
+Loading VisionOS ini files took 0.07 seconds
+Loading Unix ini files took 0.07 seconds
+Loading Linux ini files took 0.07 seconds
+Loading LinuxArm64 ini files took 0.07 seconds
+Asset registry cache read as 85.4 MiB from ../../../../../-Github-DreamLiveLife/DreamLicLifegithub/Intermediate/CachedAssetRegistry_0.bin
+Found matching target receipt: ../../../Engine/Binaries/Win64/UnrealEditor.target
+Looking for enabled plugins target receipt
+Unable to find target receipt in path: ../../../../../-Github-DreamLiveLife/DreamLicLifegithub/Binaries/Win64/*.target
+Found matching target receipt: ../../../Engine/Binaries/Win64/UnrealEditor.target
+Mounting Engine plugin ChaosCloth
+Mounting Engine plugin ChaosVD
+Mounting Engine plugin CmdLinkServer
+Mounting Engine plugin EnhancedInput
+Mounting Engine plugin Fab
+Mounting Engine plugin FastBuildController
+Mounting Engine plugin MeshPainting
+Mounting Engine plugin PCG
+Mounting Engine plugin RenderGraphInsights
+Mounting Engine plugin TraceUtilities
+Mounting Engine plugin UbaController
+Mounting Engine plugin WorldMetrics
+Mounting Engine plugin XGEController
+Mounting Engine plugin OodleNetwork
+Mounting Engine plugin DatasmithContent
+Mounting Engine plugin VariantManager
+Mounting Engine plugin VariantManagerContent
+Mounting Engine plugin GLTFExporter
+Mounting Engine plugin AlembicImporter
+Mounting Engine plugin AndroidMedia
+Mounting Engine plugin AvfMedia
+Mounting Engine plugin ImgMedia
+Mounting Engine plugin MediaCompositing
+Mounting Engine plugin MediaPlate
+Mounting Engine plugin MediaPlayerEditor
+Mounting Engine plugin WebMMedia
+Mounting Engine plugin WmfMedia
+Mounting Engine plugin TcpMessaging
+Mounting Engine plugin UdpMessaging
+Mounting Engine plugin LauncherChunkInstaller
+Mounting Engine plugin NiagaraSimCaching
+Mounting Engine plugin Niagara
+Mounting Engine plugin ActorSequence
+Mounting Engine plugin LevelSequenceEditor
+Mounting Engine plugin SequencerScripting
+Mounting Engine plugin TemplateSequence
+Mounting Engine plugin EOSShared
+Mounting Engine plugin OnlineBase
+Mounting Engine plugin OnlineServices
+Mounting Engine plugin OnlineSubsystem
+Mounting Engine plugin OnlineSubsystemNull
+Mounting Engine plugin OnlineSubsystemUtils
+Mounting Engine plugin ActorLayerUtilities
+Mounting Engine plugin AndroidDeviceProfileSelector
+Mounting Engine plugin AndroidFileServer
+Mounting Engine plugin AndroidMoviePlayer
+Mounting Engine plugin AndroidPermission
+Mounting Engine plugin AppleImageUtils
+Mounting Engine plugin AppleMoviePlayer
+Mounting Engine plugin ArchVisCharacter
+Mounting Engine plugin AssetTags
+Mounting Engine plugin AudioCapture
+Mounting Engine plugin AudioSynesthesia
+Mounting Engine plugin ChunkDownloader
+Mounting Engine plugin ComputeFramework
+Mounting Engine plugin AudioWidgets
+Mounting Engine plugin CableComponent
+Mounting Engine plugin CustomMeshComponent
+Mounting Engine plugin ExampleDeviceProfileSelector
+Mounting Engine plugin GeometryCache
+Mounting Engine plugin GeometryProcessing
+Mounting Engine plugin GeometryScripting
+Mounting Engine plugin GooglePAD
+Mounting Engine plugin GoogleCloudMessaging
+Mounting Engine plugin HairStrands
+Mounting Engine plugin InputDebugging
+Mounting Engine plugin IOSDeviceProfileSelector
+Mounting Engine plugin LocationServicesBPLibrary
+Mounting Engine plugin LinuxDeviceProfileSelector
+Mounting Engine plugin MeshModelingToolset
+Mounting Engine plugin Metasound
+Mounting Engine plugin MobilePatchingUtils
+Mounting Engine plugin MsQuic
+Mounting Engine plugin ProceduralMeshComponent
+Mounting Engine plugin PropertyAccessEditor
+Mounting Engine plugin ResonanceAudio
+Mounting Engine plugin RigVM
+Mounting Engine plugin SignificanceManager
+Mounting Engine plugin SoundFields
+Mounting Engine plugin StateTree
+Mounting Engine plugin USDCore
+Mounting Engine plugin Synthesis
+Mounting Engine plugin WaveTable
+Mounting Engine plugin WebMMoviePlayer
+Mounting Engine plugin WindowsDeviceProfileSelector
+Mounting Engine plugin WindowsMoviePlayer
+Mounting Engine plugin Paper2D
+Mounting Engine plugin AISupport
+Mounting Engine plugin EnvironmentQueryEditor
+Mounting Engine plugin ACLPlugin
+Mounting Engine plugin AnimationData
+Mounting Engine plugin AnimationModifierLibrary
+Mounting Engine plugin ControlRig
+Mounting Engine plugin ControlRigModules
+Mounting Engine plugin BlendSpaceMotionAnalysis
+Mounting Engine plugin DeformerGraph
+Mounting Engine plugin ControlRigSpline
+Mounting Engine plugin LiveLink
+Mounting Engine plugin IKRig
+Mounting Engine plugin CameraShakePreviewer
+Mounting Engine plugin GameplayCameras
+Mounting Engine plugin EngineCameras
+Mounting Engine plugin AnimationSharing
+Mounting Engine plugin CLionSourceCodeAccess
+Mounting Engine plugin CodeLiteSourceCodeAccess
+Mounting Engine plugin DumpGPUServices
+Mounting Engine plugin GitSourceControl
+Mounting Engine plugin N10XSourceCodeAccess
+Mounting Engine plugin KDevelopSourceCodeAccess
+Mounting Engine plugin NullSourceCodeAccess
+Mounting Engine plugin PerforceSourceControl
+Mounting Engine plugin PlasticSourceControl
+Mounting Engine plugin PropertyAccessNode
+Mounting Engine plugin PixWinPlugin
+Mounting Engine plugin PluginUtils
+Mounting Engine plugin SubversionSourceControl
+Mounting Engine plugin RenderDocPlugin
+Mounting Engine plugin RiderSourceCodeAccess
+Mounting Engine plugin TextureFormatOodle
+Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+Mounting Engine plugin UObjectPlugin
+Mounting Engine plugin VisualStudioSourceCodeAccess
+Mounting Engine plugin XCodeSourceCodeAccess
+Mounting Engine plugin AssetManagerEditor
+Mounting Engine plugin BlueprintHeaderView
+Mounting Engine plugin ColorGrading
+Mounting Engine plugin ChangelistReview
+Mounting Engine plugin BlueprintMaterialTextureNodes
+Mounting Engine plugin CryptoKeys
+Mounting Engine plugin CurveEditorTools
+Mounting Engine plugin DataValidation
+Mounting Engine plugin EditorDebugTools
+Mounting Engine plugin EditorScriptingUtilities
+Mounting Engine plugin EngineAssetDefinitions
+Mounting Engine plugin FacialAnimation
+Mounting Engine plugin GameplayTagsEditor
+Mounting Engine plugin GeometryMode
+Mounting Engine plugin MacGraphicsSwitching
+Mounting Engine plugin MeshLODToolset
+Mounting Engine plugin MaterialAnalyzer
+Mounting Engine plugin ModelingToolsEditorMode
+Mounting Engine plugin ProxyLODPlugin
+Mounting Engine plugin MobileLauncherProfileWizard
+Mounting Engine plugin SequencerAnimTools
+Mounting Engine plugin PluginBrowser
+Mounting Engine plugin StylusInput
+Mounting Engine plugin SpeedTreeImporter
+Mounting Engine plugin WorldPartitionHLODUtilities
+Mounting Engine plugin UVEditor
+Mounting Engine plugin UMGWidgetPreview
+Mounting Engine plugin AdvancedRenamer
+Mounting Engine plugin AutomationUtils
+Mounting Engine plugin BackChannel
+Mounting Engine plugin ChaosCaching
+Mounting Engine plugin ChaosEditor
+Mounting Engine plugin ChaosSolverPlugin
+Mounting Engine plugin ChaosNiagara
+Mounting Engine plugin ChaosUserDataPT
+Mounting Engine plugin CharacterAI
+Mounting Engine plugin Dataflow
+Mounting Engine plugin EditorPerformance
+Mounting Engine plugin EditorDataStorage
+Mounting Engine plugin Fracture
+Mounting Engine plugin EditorTelemetry
+Mounting Engine plugin FullBodyIK
+Mounting Engine plugin GeometryFlow
+Mounting Engine plugin GeometryCollectionPlugin
+Mounting Engine plugin Landmass
+Mounting Engine plugin MeshModelingToolsetExp
+Mounting Engine plugin LowLevelNetTrace
+Mounting Engine plugin LocalizableMessage
+Mounting Engine plugin NFORDenoise
+Mounting Engine plugin PCGBiomeSample
+Mounting Engine plugin PCGBiomeCore
+Mounting Engine plugin PlanarCut
+Mounting Engine plugin PlatformCrypto
+Mounting Engine plugin PythonScriptPlugin
+Mounting Engine plugin SkeletalReduction
+Mounting Engine plugin StudioTelemetry
+Mounting Engine plugin ToolPresets
+Mounting Engine plugin Water
+Mounting Engine plugin InterchangeEditor
+Mounting Engine plugin InterchangeAssets
+Mounting Engine plugin Interchange
+Mounting Engine plugin NNERuntimeORT
+Mounting Engine plugin NNEDenoiser
+Mounting Engine plugin PCGExternalDataInterop
+Mounting Engine plugin PCGGeometryScriptInterop
+Mounting Engine plugin InterchangeTests
+Mounting Engine plugin Takes
+Mounting Engine plugin SQLiteCore
+Mounting Engine plugin OnlineSubsystemIOS
+Mounting Engine plugin ConcertMain
+Mounting Engine plugin PortableObjectFileDataSource
+Mounting Engine plugin BaseCharacterFXEditor
+Mounting Engine plugin ObjectMixer
+Mounting Engine plugin LightMixer
+Mounting Engine plugin HoldoutComposite
+Mounting Engine plugin XInputDevice
+Mounting Engine plugin PCGWaterInterop
+Mounting Engine plugin OnlineSubsystemGooglePlay
+Mounting Engine plugin ContentBrowserClassDataSource
+Mounting Engine plugin ContentBrowserFileDataSource
+Mounting Engine plugin ContentBrowserAssetDataSource
+Mounting Engine plugin SkeletalMeshModelingTools
+Mounting Engine plugin ConcertSyncClient
+Mounting Engine plugin ConcertSyncCore
+Revision control is disabled
+Revision control is disabled
+Revision control is disabled
+Initializing EOSSDK Version:1.16.4-36651368
+Using libcurl 8.4.0
+ - built for Windows
+ - supports SSL with OpenSSL/1.1.1t
+ - supports HTTP deflate (compression) using libz 1.3
+ - other features:
+     CURL_VERSION_SSL
+     CURL_VERSION_LIBZ
+     CURL_VERSION_IPV6
+     CURL_VERSION_ASYNCHDNS
+     CURL_VERSION_LARGEFILE
+     CURL_VERSION_HTTP2
+ CurlRequestOptions (configurable via config and command line):
+ - bVerifyPeer = true  - Libcurl will verify peer certificate
+ - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+ - bDontReuseConnections = false  - Libcurl will reuse connections
+ - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+ - LocalHostAddr = Default
+ - BufferSize = 65536
+CreateHttpThread using FCurlMultiPollEventLoopHttpThread
+Creating http thread with maximum 2147483647 concurrent requests
+WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+OSS: Created online subsystem instance for: NULL
+OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+Failed to load 'WinPixGpuCapturer.dll' (GetLastError=126)
+File 'WinPixGpuCapturer.dll' does not exist
+PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+Applying CVar settings from Section [/Script/RenderDocPlugin.RenderDocPluginSettings] File [Engine]
+RenderDoc plugin will not be loaded. Use '-AttachRenderDoc' on the cmd line or enable 'renderdoc.AutoAttach' in the plugin settings.
+NFORDenoise function starting up
+Starting StudioTelemetry Module
+Started StudioTelemetry Session
+ExecutableName: UnrealEditor.exe
+Build: ++UE5+Release-5.5-CL-37670630
+Platform=WindowsEditor
+MachineId=a74c9e7040b5b4329bf047814eb1c329
+DeviceId=
+Engine Version: 5.5.0-37670630+++UE5+Release-5.5
+Compatible Engine Version: 5.5.0-37670630+++UE5+Release-5.5
+Net CL: 37670630
+OS: Windows 10 (22H2) [10.0.19045.5198] (), CPU: AMD Ryzen 7 3700X 8-Core Processor             , GPU: NVIDIA GeForce RTX 4060 Ti
+Compiled (64-bit): Oct 31 2024 22:13:40
+Architecture: x64
+Compiled with Visual C++: 19.38.33130.00
+Build Configuration: Development
+Branch Name: ++UE5+Release-5.5
+Command Line:  ../../../../../-Github-DreamLiveLife/DreamLicLifegithub/DreamLicLifegithub.uproject -BaseDir="F:/Unreal Engine System/UE_5.5/Engine/Binaries/Win64/" -Unattended -RunningFromUnrealEd -AbsLog=F:/-Github-DreamLiveLife/DreamLicLifegithub/Saved/Logs/WorldPartition/WorldPartitionHLODsBuilder-0000511c-2024-12-07T15.33.27.945Z.log /Game/DreamLiveLife -run=WorldPartitionBuilderCommandlet -Builder=WorldPartitionHLODsBuilder -SetupHLODs -BuildHLODs -AllowCommandletRendering
+Base Directory: F:/Unreal Engine System/UE_5.5/Engine/Binaries/Win64/
+Allocator: Mimalloc
+Installed Engine Build: 1
+This binary is optimized with LTO: no, PGO: no, instrumented for PGO data collection: no
+Number of dev versions registered: 36
+  Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+  Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+  Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+  Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+  Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+  Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+  Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+  Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+  Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+  Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+  Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 49
+  Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+  Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+  Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+  Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+  Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+  Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+  Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+  Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+  FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 170
+  FortniteValkyrie (8DBC2C5B-54A7-43E0-A768-FCBB7DA29060): 8
+  FortniteSeason (5B4C06B7-2463-4AF8-805B-BF70CDF5D0DD): 13
+  FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 15
+  Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+  Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+  Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+  Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+  Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+  Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+  Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+  UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 119
+  UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 51
+  UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+  Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+  Dev-NaniteResearch (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+  Dev-ComputeFramework (6304A3E7-0059-4F59-8CFC-21BD7721FD4E): 0
+Branch 'EditorLayout' had been unloaded. Reloading on-demand took 1.11ms
+Branch 'ChaosCloth' had been unloaded. Reloading on-demand took 0.14ms
+Branch 'CmdLinkServer' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'FastBuildController' had been unloaded. Reloading on-demand took 0.14ms
+Branch 'MeshPainting' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'RenderGraphInsights' had been unloaded. Reloading on-demand took 0.14ms
+Branch 'UbaController' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'WorldMetrics' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'XGEController' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'OodleNetwork' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'VariantManager' had been unloaded. Reloading on-demand took 0.14ms
+Branch 'AlembicImporter' had been unloaded. Reloading on-demand took 0.14ms
+Branch 'AndroidMedia' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'AvfMedia' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'ImgMedia' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'MediaCompositing' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'MediaPlate' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'MediaPlayerEditor' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'WebMMedia' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'WmfMedia' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'TcpMessaging' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'UdpMessaging' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'LauncherChunkInstaller' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'NiagaraSimCaching' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'ActorSequence' had been unloaded. Reloading on-demand took 0.14ms
+Branch 'LevelSequenceEditor' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'SequencerScripting' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'TemplateSequence' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'EOSShared' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'OnlineBase' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'OnlineServices' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'OnlineSubsystem' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'OnlineSubsystemNull' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'OnlineSubsystemUtils' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'ActorLayerUtilities' had been unloaded. Reloading on-demand took 0.14ms
+Branch 'AndroidDeviceProfileSelector' had been unloaded. Reloading on-demand took 0.14ms
+Branch 'AndroidFileServer' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'AndroidMoviePlayer' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'AndroidPermission' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'AppleImageUtils' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'AppleMoviePlayer' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'ArchVisCharacter' had been unloaded. Reloading on-demand took 0.14ms
+Branch 'AssetTags' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'AudioCapture' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'AudioSynesthesia' had been unloaded. Reloading on-demand took 0.15ms
+Branch 'ChunkDownloader' had been unloaded. Reloading on-demand took 0.14ms
+Branch 'ComputeFramework' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'AudioWidgets' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'CableComponent' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'CustomMeshComponent' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'ExampleDeviceProfileSelector' had been unloaded. Reloading on-demand took 0.14ms
+Branch 'GeometryCache' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'GeometryProcessing' had been unloaded. Reloading on-demand took 0.14ms
+Branch 'GeometryScripting' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'GooglePAD' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'GoogleCloudMessaging' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'InputDebugging' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'IOSDeviceProfileSelector' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'LocationServicesBPLibrary' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'LinuxDeviceProfileSelector' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'MeshModelingToolset' had been unloaded. Reloading on-demand took 0.14ms
+Branch 'MobilePatchingUtils' had been unloaded. Reloading on-demand took 0.14ms
+Branch 'MsQuic' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'ProceduralMeshComponent' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'PropertyAccessEditor' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'ResonanceAudio' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'SignificanceManager' had been unloaded. Reloading on-demand took 0.14ms
+Branch 'SoundFields' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'WaveTable' had been unloaded. Reloading on-demand took 0.14ms
+Branch 'WebMMoviePlayer' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'WindowsDeviceProfileSelector' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'WindowsMoviePlayer' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'AISupport' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'EnvironmentQueryEditor' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'ACLPlugin' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'AnimationData' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'AnimationModifierLibrary' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'ControlRigModules' had been unloaded. Reloading on-demand took 0.14ms
+Branch 'BlendSpaceMotionAnalysis' had been unloaded. Reloading on-demand took 0.14ms
+Branch 'ControlRigSpline' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'CameraShakePreviewer' had been unloaded. Reloading on-demand took 0.14ms
+Branch 'EngineCameras' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'AnimationSharing' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'CLionSourceCodeAccess' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'CodeLiteSourceCodeAccess' had been unloaded. Reloading on-demand took 0.14ms
+Branch 'DumpGPUServices' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'GitSourceControl' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'N10XSourceCodeAccess' had been unloaded. Reloading on-demand took 0.14ms
+Branch 'KDevelopSourceCodeAccess' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'NullSourceCodeAccess' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'PerforceSourceControl' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'PlasticSourceControl' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'PropertyAccessNode' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'PixWinPlugin' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'PluginUtils' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'SubversionSourceControl' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'RenderDocPlugin' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'RiderSourceCodeAccess' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'TextureFormatOodle' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'VisualStudioCodeSourceCodeAccess' had been unloaded. Reloading on-demand took 0.14ms
+Branch 'UObjectPlugin' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'VisualStudioSourceCodeAccess' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'XCodeSourceCodeAccess' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'AssetManagerEditor' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'BlueprintHeaderView' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'ColorGrading' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'ChangelistReview' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'BlueprintMaterialTextureNodes' had been unloaded. Reloading on-demand took 0.14ms
+Branch 'CryptoKeys' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'CurveEditorTools' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'DataValidation' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'EditorDebugTools' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'EngineAssetDefinitions' had been unloaded. Reloading on-demand took 0.14ms
+Branch 'FacialAnimation' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'GameplayTagsEditor' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'GeometryMode' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'MacGraphicsSwitching' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'MeshLODToolset' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'MaterialAnalyzer' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'ModelingToolsEditorMode' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'ProxyLODPlugin' had been unloaded. Reloading on-demand took 0.14ms
+Branch 'MobileLauncherProfileWizard' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'SequencerAnimTools' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'PluginBrowser' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'StylusInput' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'SpeedTreeImporter' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'WorldPartitionHLODUtilities' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'UVEditor' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'UMGWidgetPreview' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'AdvancedRenamer' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'AutomationUtils' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'BackChannel' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'ChaosCaching' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'ChaosEditor' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'ChaosSolverPlugin' had been unloaded. Reloading on-demand took 0.14ms
+Branch 'ChaosNiagara' had been unloaded. Reloading on-demand took 0.14ms
+Branch 'ChaosUserDataPT' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'CharacterAI' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'Dataflow' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'EditorPerformance' had been unloaded. Reloading on-demand took 0.14ms
+Branch 'EditorDataStorage' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'Fracture' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'EditorTelemetry' had been unloaded. Reloading on-demand took 0.14ms
+Branch 'GeometryFlow' had been unloaded. Reloading on-demand took 0.14ms
+Branch 'GeometryCollectionPlugin' had been unloaded. Reloading on-demand took 0.14ms
+Branch 'Landmass' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'MeshModelingToolsetExp' had been unloaded. Reloading on-demand took 0.14ms
+Branch 'LowLevelNetTrace' had been unloaded. Reloading on-demand took 0.14ms
+Branch 'LocalizableMessage' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'NFORDenoise' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'PCGBiomeSample' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'PCGBiomeCore' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'PlanarCut' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'PlatformCrypto' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'PythonScriptPlugin' had been unloaded. Reloading on-demand took 0.14ms
+Branch 'SkeletalReduction' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'StudioTelemetry' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'Water' had been unloaded. Reloading on-demand took 0.14ms
+Branch 'InterchangeEditor' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'NNERuntimeORT' had been unloaded. Reloading on-demand took 0.14ms
+Branch 'NNEDenoiser' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'PCGExternalDataInterop' had been unloaded. Reloading on-demand took 0.14ms
+Branch 'InterchangeTests' had been unloaded. Reloading on-demand took 0.14ms
+Branch 'SQLiteCore' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'OnlineSubsystemIOS' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'ConcertMain' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'PortableObjectFileDataSource' had been unloaded. Reloading on-demand took 0.14ms
+Branch 'BaseCharacterFXEditor' had been unloaded. Reloading on-demand took 0.14ms
+Branch 'ObjectMixer' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'LightMixer' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'XInputDevice' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'PCGWaterInterop' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'OnlineSubsystemGooglePlay' had been unloaded. Reloading on-demand took 0.13ms
+Branch 'ContentBrowserClassDataSource' had been unloaded. Reloading on-demand took 0.14ms
+Branch 'ContentBrowserFileDataSource' had been unloaded. Reloading on-demand took 0.14ms
+Branch 'ContentBrowserAssetDataSource' had been unloaded. Reloading on-demand took 0.14ms
+Branch 'SkeletalMeshModelingTools' had been unloaded. Reloading on-demand took 0.14ms
+Branch 'ConcertSyncClient' had been unloaded. Reloading on-demand took 0.14ms
+Presizing for max 25165824 objects, including 0 objects not considered by GC.
+AsyncLoading2 - Created: Event Driven Loader: false, Async Loading Thread: false, Async Post Load: false
+AsyncLoading2 - Initialized
+Object subsystem initialized
+Set CVar [[con.DebugEarlyDefault:1]]
+CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+Set CVar [[r.setres:1280x720]]
+CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+Set CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable created
+Set CVar [[r.Nanite.Streaming.ReservedResources:1]]
+Set CVar [[r.Nanite.Streaming.AsyncCompute:0	; Temporary workaround for Nanite geometry corruption (FORT-805141)]]
+CVar [[D3D12.Bindless.ResourceDescriptorHeapSize:32768]] deferred - dummy variable created
+CVar [[D3D12.Bindless.SamplerDescriptorHeapSize:2048]] deferred - dummy variable created
+Set CVar [[r.PSOPrecache.GlobalShaders:1]]
+Set CVar [[r.DynamicRes.DynamicFrameTime:1]]
+Set CVar [[r.VRS.EnableSoftware:1]]
+Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
+CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable created
+CVar [[D3D12.Bindless.ResourceDescriptorHeapSize:32768]] deferred - dummy variable created
+CVar [[D3D12.Bindless.SamplerDescriptorHeapSize:2048]] deferred - dummy variable created
+Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+Set CVar [[r.GPUCrashDebugging:0]]
+CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+Set CVar [[r.Mobile.ShadingPath:0]]
+Set CVar [[r.Mobile.AllowDeferredShadingOpenGL:0]]
+Set CVar [[r.Mobile.SupportGPUScene:1]]
+Set CVar [[r.Mobile.AntiAliasing:1]]
+Set CVar [[r.Mobile.FloatPrecisionMode:0]]
+Set CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+Set CVar [[r.Mobile.VirtualTextures:0]]
+Set CVar [[r.DiscardUnusedQuality:0]]
+Set CVar [[r.AllowOcclusionQueries:1]]
+Set CVar [[r.MinScreenRadiusForLights:0.030000]]
+Set CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+Set CVar [[r.PrecomputedVisibilityWarning:0]]
+Set CVar [[r.TextureStreaming:1]]
+Set CVar [[Compat.UseDXT5NormalMaps:0]]
+Set CVar [[r.VirtualTextures:0]]
+Set CVar [[r.VT.EnableAutoImport:1]]
+Set CVar [[r.VirtualTexturedLightmaps:0]]
+Set CVar [[r.VT.AnisotropicFiltering:0]]
+CVar [[bEnableVirtualTextureOpacityMask:1]] deferred - dummy variable created
+CVar [[bEnableVirtualTexturePostProcessing:0]] deferred - dummy variable created
+Set CVar [[r.VT.TileSize:128]]
+Set CVar [[r.VT.TileBorderSize:4]]
+Set CVar [[r.vt.FeedbackFactor:16]]
+Set CVar [[r.MeshPaintVirtualTexture.TileSize:32]]
+Set CVar [[r.MeshPaintVirtualTexture.TileBorderSize:2]]
+Set CVar [[r.MeshPaintVirtualTexture.UseCompression:1]]
+Set CVar [[r.StaticMesh.DefaultMeshPaintTextureSupport:1]]
+Set CVar [[r.MeshPaintVirtualTexture.DefaultTexelsPerVertex:4]]
+Set CVar [[r.MeshPaintVirtualTexture.MaxTextureSize:4096]]
+Set CVar [[r.vt.rvt.EnableBaseColor:1]]
+Set CVar [[r.vt.rvt.EnableBaseColorRoughness:1]]
+Set CVar [[r.vt.rvt.EnableBaseColorSpecular:1]]
+Set CVar [[r.vt.rvt.EnableMask4:1]]
+Set CVar [[r.vt.rvt.EnableWorldHeight:1]]
+Set CVar [[r.vt.rvt.EnableDisplacement:1]]
+Set CVar [[r.vt.rvt.HighQualityPerPixelHeight:1]]
+CVar [[WorkingColorSpaceChoice:sRGB]] deferred - dummy variable created
+CVar [[RedChromaticityCoordinate:(X=0.640000,Y=0.330000)]] deferred - dummy variable created
+CVar [[GreenChromaticityCoordinate:(X=0.300000,Y=0.600000)]] deferred - dummy variable created
+CVar [[BlueChromaticityCoordinate:(X=0.150000,Y=0.060000)]] deferred - dummy variable created
+CVar [[WhiteChromaticityCoordinate:(X=0.312700,Y=0.329000)]] deferred - dummy variable created
+Set CVar [[r.LegacyLuminanceFactors:0]]
+Set CVar [[r.ClearCoatNormal:0]]
+Set CVar [[r.DynamicGlobalIlluminationMethod:1]]
+Set CVar [[r.ReflectionMethod:1]]
+Set CVar [[r.ReflectionCaptureResolution:128]]
+Set CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+Set CVar [[r.Lumen.HardwareRayTracing:1]]
+Set CVar [[r.Lumen.HardwareRayTracing.LightingMode:0]]
+Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.EnableForProject:0]]
+Set CVar [[r.Lumen.TraceMeshSDFs:1]]
+Set CVar [[r.Lumen.ScreenTracingSource:0]]
+Set CVar [[r.Lumen.Reflections.HardwareRayTracing.Translucent.Refraction.EnableForProject:1]]
+Set CVar [[r.MegaLights.EnableForProject:0]]
+Set CVar [[r.RayTracing.Shadows:0]]
+Set CVar [[r.Shadow.Virtual.Enable:1]]
+Set CVar [[r.RayTracing:1]]
+Set CVar [[r.RayTracing.UseTextureLod:0]]
+Set CVar [[r.PathTracing:1]]
+Set CVar [[r.GenerateMeshDistanceFields:1]]
+Set CVar [[r.DistanceFields.DefaultVoxelDensity:0.200000]]
+Set CVar [[r.Nanite.ProjectEnabled:1]]
+Set CVar [[r.AllowStaticLighting:0]]
+Set CVar [[r.NormalMapsForStaticLighting:0]]
+Set CVar [[r.ForwardShading:0]]
+Set CVar [[r.VertexFoggingForOpaque:1]]
+Set CVar [[r.SeparateTranslucency:1]]
+Set CVar [[r.TranslucentSortPolicy:0]]
+CVar [[TranslucentSortAxis:(X=0.000000,Y=-1.000000,Z=0.000000)]] deferred - dummy variable created
+Set CVar [[r.LocalFogVolume.ApplyOnTranslucent:0]]
+Set CVar [[xr.VRS.FoveationLevel:0]]
+Set CVar [[xr.VRS.DynamicFoveation:0]]
+Set CVar [[r.CustomDepth:1]]
+Set CVar [[r.CustomDepthTemporalAAJitter:1]]
+Set CVar [[r.PostProcessing.PropagateAlpha:0]]
+Set CVar [[r.Deferred.SupportPrimitiveAlphaHoldout:0]]
+Set CVar [[r.DefaultFeature.Bloom:1]]
+Set CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+Set CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+Set CVar [[r.DefaultFeature.AutoExposure:0]]
+Set CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+Set CVar [[r.DefaultFeature.AutoExposure.Bias:1.000000]]
+Set CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+Set CVar [[r.DefaultFeature.LocalExposure.HighlightContrastScale:0.800000]]
+Set CVar [[r.DefaultFeature.LocalExposure.ShadowContrastScale:0.800000]]
+Set CVar [[r.DefaultFeature.MotionBlur:0]]
+Set CVar [[r.DefaultFeature.LensFlare:0]]
+Set CVar [[r.TemporalAA.Upsampling:1]]
+Set CVar [[r.AntiAliasingMethod:0]]
+Set CVar [[r.MSAACount:4]]
+Set CVar [[r.DefaultFeature.LightUnits:1]]
+Set CVar [[r.DefaultBackBufferPixelFormat:4]]
+Set CVar [[r.ScreenPercentage.Default:100.000000]]
+Set CVar [[r.ScreenPercentage.Default.Desktop.Mode:1]]
+Set CVar [[r.ScreenPercentage.Default.Mobile.Mode:0]]
+Set CVar [[r.ScreenPercentage.Default.VR.Mode:0]]
+Set CVar [[r.ScreenPercentage.Default.PathTracer.Mode:0]]
+Set CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+Set CVar [[r.StencilForLODDither:0]]
+Set CVar [[r.EarlyZPass:3]]
+Set CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+Set CVar [[r.Shadow.CSMCaching:0]]
+Set CVar [[r.DBuffer:1]]
+Set CVar [[r.ClearSceneMethod:1]]
+Set CVar [[r.VelocityOutputPass:0]]
+Set CVar [[r.Velocity.EnableVertexDeformation:2]]
+Set CVar [[r.SelectiveBasePassOutputs:0]]
+CVar [[bDefaultParticleCutouts:0]] deferred - dummy variable created
+Set CVar [[fx.GPUSimulationTextureSizeX:1024]]
+Set CVar [[fx.GPUSimulationTextureSizeY:1024]]
+Set CVar [[r.AllowGlobalClipPlane:0]]
+Set CVar [[r.GBufferFormat:1]]
+Set CVar [[r.MorphTarget.Mode:1]]
+Set CVar [[r.MorphTarget.MaxBlendWeight:5.000000]]
+Set CVar [[r.SupportSkyAtmosphere:1]]
+Set CVar [[r.SupportSkyAtmosphereAffectsHeightFog:1]]
+Set CVar [[r.SupportExpFogMatchesVolumetricFog:0]]
+Set CVar [[r.SupportLocalFogVolumes:1]]
+Set CVar [[r.SupportCloudShadowOnForwardLitTranslucent:0]]
+Set CVar [[r.LightFunctionAtlas.Format:0]]
+Set CVar [[r.VolumetricFog.LightFunction:1]]
+Set CVar [[r.Deferred.UsesLightFunctionAtlas:1]]
+Set CVar [[r.SingleLayerWater.UsesLightFunctionAtlas:0]]
+Set CVar [[r.Translucent.UsesLightFunctionAtlas:0]]
+Set CVar [[r.Translucent.UsesIESProfiles:0]]
+Set CVar [[r.Translucent.UsesRectLights:0]]
+Set CVar [[vr.InstancedStereo:0]]
+Set CVar [[r.MobileHDR:1]]
+Set CVar [[vr.MobileMultiView:0]]
+Set CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+Set CVar [[vr.RoundRobinOcclusion:0]]
+Set CVar [[r.MeshStreaming:0]]
+Set CVar [[r.HeterogeneousVolumes:1]]
+Set CVar [[r.HeterogeneousVolumes.Shadows:0]]
+Set CVar [[r.Translucency.HeterogeneousVolumes:0]]
+Set CVar [[r.WireframeCullThreshold:5.000000]]
+Set CVar [[r.SupportStationarySkylight:1]]
+Set CVar [[r.SupportLowQualityLightmaps:1]]
+Set CVar [[r.SupportPointLightWholeSceneShadows:1]]
+Set CVar [[r.Shadow.TranslucentPerObject.ProjectEnabled:0]]
+Set CVar [[r.Water.SingleLayerWater.SupportCloudShadow:0]]
+Set CVar [[r.Substrate:0]]
+Set CVar [[r.Substrate.OpaqueMaterialRoughRefraction:0]]
+Set CVar [[r.Refraction.Blur:1]]
+Set CVar [[r.Substrate.Debug.AdvancedVisualizationShaders:0]]
+Set CVar [[r.Material.RoughDiffuse:0]]
+Set CVar [[r.Material.EnergyConservation:0]]
+Set CVar [[r.Material.DefaultAutoMaterialUsage:1]]
+Set CVar [[r.OIT.SortedPixels:0]]
+Set CVar [[r.HairStrands.LODMode:1]]
+Set CVar [[r.SkinCache.CompileShaders:1]]
+Set CVar [[r.VRS.Support:1]]
+Set CVar [[r.SkinCache.SkipCompilingGPUSkinVF:0]]
+Set CVar [[r.SkinCache.DefaultBehavior:1]]
+Set CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+Set CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+Set CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+Set CVar [[r.Mobile.Forward.EnableLocalLights:1]]
+Set CVar [[r.Mobile.Forward.EnableClusteredReflections:0]]
+Set CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+Set CVar [[r.Mobile.EnableMovableSpotlightsShadow:0]]
+Set CVar [[r.GPUSkin.Support16BitBoneIndex:0]]
+Set CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+Set CVar [[r.SupportDepthOnlyIndexBuffers:0]]
+Set CVar [[r.SupportReversedIndexBuffers:0]]
+Set CVar [[r.Mobile.AmbientOcclusion:0]]
+Set CVar [[r.Mobile.DBuffer:0]]
+Set CVar [[r.GPUSkin.UnlimitedBoneInfluences:0]]
+Set CVar [[r.GPUSkin.AlwaysUseDeformerForUnlimitedBoneInfluences:0]]
+Set CVar [[r.GPUSkin.UnlimitedBoneInfluencesThreshold:8]]
+CVar [[DefaultBoneInfluenceLimit:(Default=0,PerPlatform=())]] deferred - dummy variable created
+Set CVar [[r.Mobile.PlanarReflectionMode:0]]
+Set CVar [[r.Mobile.ScreenSpaceReflections:0]]
+Set CVar [[r.Mobile.SupportsGen4TAA:1]]
+CVar [[bStreamSkeletalMeshLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+CVar [[bDiscardSkeletalMeshOptionalLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+CVar [[VisualizeCalibrationCustomMaterialPath:None]] deferred - dummy variable created
+Set CVar [[r.Shaders.RemoveUnusedInterpolators:1]]
+Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
+Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+Set CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+Set CVar [[s.AsyncLoadingThreadEnabled:1]]
+Set CVar [[s.EventDrivenLoaderEnabled:1]]
+Set CVar [[s.WarnIfTimeLimitExceeded:0]]
+Set CVar [[s.TimeLimitExceededMultiplier:1.5]]
+Set CVar [[s.TimeLimitExceededMinTime:0.005]]
+Set CVar [[s.UseBackgroundLevelStreaming:1]]
+Set CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+Set CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+Set CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+Set CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+Set CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+Set CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+Set CVar [[s.FlushStreamingOnExit:1]]
+CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+Set CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+Set CVar [[gc.FlushStreamingOnGC:0]]
+Set CVar [[gc.NumRetriesBeforeForcingGC:10]]
+Set CVar [[gc.AllowParallelGC:1]]
+Set CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+Set CVar [[gc.MaxObjectsInEditor:25165824]]
+Set CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+Set CVar [[gc.CreateGCClusters:1]]
+Set CVar [[gc.MinGCClusterSize:5]]
+Set CVar [[gc.AssetClustreringEnabled:0]]
+Set CVar [[gc.ActorClusteringEnabled:0]]
+Set CVar [[gc.VerifyUObjectsAreNotFGCObjects:0]]
+Set CVar [[gc.GarbageEliminationEnabled:1]]
+Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+CVar [[DefaultASTCQualityBySpeed:2]] deferred - dummy variable created
+CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+CVar [[DefaultASTCQualityBySizeHQ:4]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:AmbientSound]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.MaterialEditor.LWCTruncateMode]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Mobile.DBuffer]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+Set CVar [[r.SkeletalMeshLODBias:0]]
+Set CVar [[r.ViewDistanceScale:1.0]]
+Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+Set CVar [[r.FXAA.Quality:4]]
+Set CVar [[r.TemporalAA.Quality:2]]
+Set CVar [[r.TSR.History.R11G11B10:1]]
+Set CVar [[r.TSR.History.ScreenPercentage:200]]
+Set CVar [[r.TSR.History.UpdateQuality:3]]
+Set CVar [[r.TSR.ShadingRejection.Flickering:1]]
+Set CVar [[r.TSR.RejectionAntiAliasingQuality:2]]
+Set CVar [[r.TSR.ReprojectionField:1]]
+Set CVar [[r.TSR.Resurrection:1]]
+Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+Set CVar [[r.LightFunctionQuality:1]]
+Set CVar [[r.ShadowQuality:5]]
+Set CVar [[r.Shadow.CSM.MaxCascades:10]]
+Set CVar [[r.Shadow.MaxResolution:2048]]
+Set CVar [[r.Shadow.MaxCSMResolution:2048]]
+Set CVar [[r.Shadow.RadiusThreshold:0.01]]
+Set CVar [[r.Shadow.DistanceScale:1.0]]
+Set CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+Set CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+Set CVar [[r.DistanceFieldShadowing:1]]
+Set CVar [[r.VolumetricFog:1]]
+Set CVar [[r.VolumetricFog.GridPixelSize:8]]
+Set CVar [[r.VolumetricFog.GridSizeZ:128]]
+Set CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+Set CVar [[r.LightMaxDrawDistanceScale:1]]
+Set CVar [[r.CapsuleShadows:1]]
+Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:4096]]
+Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:-1.5]]
+Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:-1.5]]
+Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:0.0]]
+Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:1.0]]
+Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:8]]
+Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:4]]
+Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:8]]
+Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:4]]
+Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+Set CVar [[r.DistanceFieldAO:1]]
+Set CVar [[r.AOQuality:2]]
+Set CVar [[r.Lumen.DiffuseIndirect.Allow:1]]
+Set CVar [[r.LumenScene.Radiosity.ProbeSpacing:4]]
+Set CVar [[r.LumenScene.Radiosity.HemisphereProbeResolution:4]]
+Set CVar [[r.Lumen.TraceMeshSDFs.Allow:1]]
+Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution:32]]
+Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.NumProbesToTraceBudget:300]]
+Set CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:16]]
+Set CVar [[r.Lumen.ScreenProbeGather.TracingOctahedronResolution:8]]
+Set CVar [[r.Lumen.ScreenProbeGather.IrradianceFormat:0]]
+Set CVar [[r.Lumen.ScreenProbeGather.StochasticInterpolation:0]]
+Set CVar [[r.Lumen.ScreenProbeGather.FullResolutionJitterWidth:1]]
+Set CVar [[r.Lumen.ScreenProbeGather.TwoSidedFoliageBackfaceDiffuse:1]]
+Set CVar [[r.Lumen.ScreenProbeGather.ScreenTraces.HZBTraversal.FullResDepth:1]]
+Set CVar [[r.Lumen.ScreenProbeGather.ShortRangeAO.HardwareRayTracing:0]]
+Set CVar [[r.Lumen.TranslucencyVolume.GridPixelSize:32]]
+Set CVar [[r.Lumen.TranslucencyVolume.TraceFromVolume:1]]
+Set CVar [[r.Lumen.TranslucencyVolume.TracingOctahedronResolution:3]]
+Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.ProbeResolution:8]]
+Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.NumProbesToTraceBudget:200]]
+Set CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+Set CVar [[r.RayTracing.Scene.BuildMode:1]]
+Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+Set CVar [[r.SSR.Quality:3]]
+Set CVar [[r.SSR.HalfResSceneColor:0]]
+Set CVar [[r.Lumen.Reflections.Allow:1]]
+Set CVar [[r.Lumen.Reflections.DownsampleFactor:1]]
+Set CVar [[r.Lumen.Reflections.MaxRoughnessToTraceForFoliage:0.4]]
+Set CVar [[r.Lumen.ScreenProbeGather.MaxRoughnessToEvaluateRoughSpecularForFoliage:0.8]]
+Set CVar [[r.Lumen.Reflections.ScreenSpaceReconstruction.TonemapMode:1]]
+Set CVar [[r.Lumen.Reflections.ScreenSpaceReconstruction.MinWeight:0]]
+Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Allow:1]]
+Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Enable:0]]
+Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+Set CVar [[r.MotionBlurQuality:4]]
+Set CVar [[r.MotionBlur.HalfResGather:0]]
+Set CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+Set CVar [[r.AmbientOcclusionMaxQuality:100]]
+Set CVar [[r.AmbientOcclusionLevels:-1]]
+Set CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+Set CVar [[r.DepthOfFieldQuality:2]]
+Set CVar [[r.RenderTargetPoolMin:400]]
+Set CVar [[r.LensFlareQuality:2]]
+Set CVar [[r.SceneColorFringeQuality:1]]
+Set CVar [[r.EyeAdaptationQuality:2]]
+Set CVar [[r.BloomQuality:5]]
+Set CVar [[r.Bloom.ScreenPercentage:50.000]]
+Set CVar [[r.FastBlurThreshold:100]]
+Set CVar [[r.Upscale.Quality:3]]
+Set CVar [[r.LightShaftQuality:1]]
+Set CVar [[r.Filter.SizeScale:1]]
+Set CVar [[r.Tonemapper.Quality:5]]
+Set CVar [[r.DOF.Gather.ResolutionDivisor:2         ; lower gathering resolution]]
+Set CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+Set CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+Set CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+Set CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+Set CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+Set CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+Set CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+Set CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+Set CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+Set CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+Set CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+Set CVar [[r.Streaming.MipBias:0]]
+Set CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+Set CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+Set CVar [[r.Streaming.Boost:1]]
+Set CVar [[r.MaxAnisotropy:8]]
+Set CVar [[r.VT.MaxAnisotropy:8]]
+Set CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+Set CVar [[r.Streaming.PoolSize:1000]]
+Set CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+Set CVar [[r.TranslucencyLightingVolumeDim:64]]
+Set CVar [[r.RefractionQuality:2]]
+Set CVar [[r.SceneColorFormat:4]]
+Set CVar [[r.DetailMode:3]]
+Set CVar [[r.TranslucencyVolumeBlur:1]]
+Set CVar [[r.MaterialQualityLevel:1 ; High quality]]
+Set CVar [[r.SSS.Scale:1]]
+Set CVar [[r.SSS.SampleSet:2]]
+Set CVar [[r.SSS.Quality:1]]
+Set CVar [[r.SSS.HalfRes:0]]
+Set CVar [[r.SSGI.Quality:3]]
+Set CVar [[r.EmitterSpawnRateScale:1.0]]
+Set CVar [[r.ParticleLightQuality:2]]
+Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+Set CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+Set CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+Set CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+Set CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+Set CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+Set CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+Set CVar [[fx.Niagara.QualityLevel:3]]
+Set CVar [[r.Refraction.OffsetQuality:1]]
+Set CVar [[r.HeterogeneousVolumes.DownsampleFactor:1]]
+Set CVar [[r.HeterogeneousVolumes.MaxStepCount:512]]
+Set CVar [[r.HeterogeneousVolumes.Shadows.Resolution:512]]
+Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+Set CVar [[foliage.DensityScale:1.0]]
+Set CVar [[grass.DensityScale:1.0]]
+Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+Set CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+Set CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+Set CVar [[r.AnisotropicMaterials:1]]
+Applying CVar settings from Section [LandscapeQuality@3] File [Scalability]
+Using Default RHI: D3D12
+Using Highest Feature Level of D3D12: SM6
+Loading RHI module D3D12RHI
+Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+Checking if RHI D3D12 with Feature Level SM6 is supported by your system.
+Found D3D12 adapter 0: NVIDIA GeForce RTX 4060 Ti (VendorId: 10de, DeviceId: 2805, SubSysId: 891b1043, Revision: 00a1
+  Max supported Feature Level 12_2, shader model 6.7, binding tier 3, wave ops supported, atomic64 supported
+  Adapter has 16109MB of dedicated video memory, 0MB of dedicated system memory, and 32727MB of shared system memory, 1 output[s]
+  Driver Version: 560.94 (internal:32.0.15.6094, unified:560.94)
+     Driver Date: 8-14-2024
+Found D3D12 adapter 1: Microsoft Basic Render Driver (VendorId: 1414, DeviceId: 008c, SubSysId: 0000, Revision: 0000
+  Max supported Feature Level 12_1, shader model 6.2, binding tier 3, wave ops supported, atomic64 unsupported
+  Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 32727MB of shared system memory, 0 output[s]
+DirectX Agility SDK runtime found.
+Chosen D3D12 Adapter Id = 0
+RHI D3D12 with Feature Level SM6 is supported and will be used.
+Selected Device Profile: [WindowsEditor]
+Platform has ~ 64 GB [68635410432 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+Going up to parent DeviceProfile [Windows]
+Going up to parent DeviceProfile []
+Pushing Device Profile CVar: [[UI.SlateSDFText.RasterizationMode:Bitmap -> Msdf]]
+Pushing Device Profile CVar: [[UI.SlateSDFText.ResolutionLevel:2 -> 2]]
+Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+Set CVar [[r.DumpShaderDebugInfo:2]]
+Set CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+Set CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+CVar [[ds.CADTranslator.Meshing.ActivateThinZoneMeshing:0]] deferred - dummy variable created
+CVar [[ds.CADTranslator.Stitching.RemoveThinFaces:0]] deferred - dummy variable created
+Applying CVar settings from Section [Startup_Windows] File [../../../Engine/Config/ConsoleVariables.ini]
+Applying CVar settings from Section [ConsoleVariables] File [Engine]
+Set CVar [[memory.MemoryPressureCriticalThresholdMB:512]]
+Applying CVar settings from Section [ConsoleVariables] File [F:/-Github-DreamLiveLife/DreamLicLifegithub/Saved/Config/WindowsEditor/Editor.ini]
+Computer: DESKTOP-6U4JMTE
+User: james
+CPU Page size=4096, Cores=8
+High frequency timer resolution =10.000000 MHz
+Process is running as part of a Windows Job with separate resource limits
+Memory total: Physical=63.9GB (64GB approx) Virtual=82.9GB
+Platform Memory Stats for WindowsEditor
+Process Physical Memory: 671.02 MB used, 682.91 MB peak
+Process Virtual Memory: 707.29 MB used, 707.29 MB peak
+Physical Memory: 18028.74 MB used,  47427.09 MB free, 65455.83 MB total
+Virtual Memory: 25484.75 MB used,  59427.08 MB free, 84911.83 MB total
+Metadata set : extradevelopmentmemorymb="0"
+WindowsPlatformFeatures enabled
+Chaos Debug Draw Startup
+Physics initialised using underlying interface: Chaos
+Using OS detected language (en-US).
+Using OS detected locale (en-GB).
+No specific localization for 'en-US' exists, so 'en' will be used for the language.
+Using Default RHI: D3D12
+Using Highest Feature Level of D3D12: SM6
+Loading RHI module D3D12RHI
+Checking if RHI D3D12 with Feature Level SM6 is supported by your system.
+RHI D3D12 with Feature Level SM6 is supported and will be used.
+Creating D3D12 RHI with Max Feature Level SM6
+Attached monitors:
+    resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY1' [PRIMARY]
+Found 1 attached monitors.
+Gathering driver information using Windows Setup API
+RHI Adapter Info:
+            Name: NVIDIA GeForce RTX 4060 Ti
+  Driver Version: 560.94 (internal:32.0.15.6094, unified:560.94)
+     Driver Date: 8-14-2024
+    GPU DeviceId: 0x2805 (for the marketing name, search the web for "GPU Device Id")
+InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+Aftermath initialized
+Emitting draw events for PIX profiling.
+Aftermath enabled. Active feature flags: 
+ - Feature: EnableResourceTracking
+ID3D12Device1 is supported.
+ID3D12Device2 is supported.
+ID3D12Device3 is supported.
+ID3D12Device4 is supported.
+ID3D12Device5 is supported.
+ID3D12Device6 is supported.
+ID3D12Device7 is supported.
+ID3D12Device8 is supported.
+ID3D12Device9 is supported.
+ID3D12Device10 is supported.
+ID3D12Device11 is supported.
+ID3D12Device12 is supported.
+Bindless resources are supported
+Stencil ref from pixel shader is not supported
+Raster order views are supported
+Wave Operations are supported (wave size: min=32 max=32).
+D3D12 ray tracing tier 1.1 and bindless resources are supported.
+Mesh shader tier 1.0 is supported
+AtomicInt64OnTypedResource is supported
+AtomicInt64OnGroupShared is supported
+AtomicInt64OnDescriptorHeapResource is supported
+Shader Model 6.6 atomic64 is supported
+Work Graphs are supported
+[GPUBreadCrumb] Successfully setup breadcrumb resource for DiagnosticBuffer (Queue: 0x00000B8B6DA90B00)
+[GPUBreadCrumb] Successfully setup breadcrumb resource for DiagnosticBuffer (Queue: 0x00000B8B6DA90D80)
+[GPUBreadCrumb] Successfully setup breadcrumb resource for DiagnosticBuffer (Queue: 0x00000B8B6DA91000)
+Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+Texture pool is 9664 MB (70% of 13806 MB)
+Async texture creation enabled
+RHI has support for 64 bit atomics
+Current RHI supports per-draw and screenspace Variable Rate Shading
+Initializing FReadOnlyCVARCache
+Loaded Base TextureFormat: TextureFormatASTC
+Loaded Base TextureFormat: TextureFormatDXT
+Loaded Base TextureFormat: TextureFormatETC2
+Loaded Base TextureFormat: TextureFormatIntelISPCTexComp
+Loaded Base TextureFormat: TextureFormatUncompressed
+Oodle Texture TFO init; latest sdk version = 2.9.12
+Oodle Texture loading DLL: oo2tex_win64_2.9.12.dll
+Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+Loaded Base TextureFormat: TextureFormatOodle
+Loaded TargetPlatform 'Android'
+Loaded TargetPlatform 'Android_ASTC'
+Loaded TargetPlatform 'Android_DXT'
+Loaded TargetPlatform 'Android_ETC2'
+Loaded TargetPlatform 'AndroidClient'
+Loaded TargetPlatform 'Android_ASTCClient'
+Loaded TargetPlatform 'Android_DXTClient'
+Loaded TargetPlatform 'Android_ETC2Client'
+Loaded TargetPlatform 'Android_Multi'
+Loaded TargetPlatform 'Android_MultiClient'
+Loaded TargetPlatform 'IOS'
+Loaded TargetPlatform 'IOSClient'
+Loaded TargetPlatform 'Linux'
+Loaded TargetPlatform 'LinuxEditor'
+Loaded TargetPlatform 'LinuxServer'
+Loaded TargetPlatform 'LinuxClient'
+Loaded TargetPlatform 'LinuxArm64'
+Loaded TargetPlatform 'LinuxArm64Server'
+Loaded TargetPlatform 'LinuxArm64Client'
+Loaded TargetPlatform 'Mac'
+Loaded TargetPlatform 'MacEditor'
+Loaded TargetPlatform 'MacServer'
+Loaded TargetPlatform 'MacClient'
+Loaded TargetPlatform 'TVOS'
+Loaded TargetPlatform 'TVOSClient'
+Loaded TargetPlatform 'Windows'
+Loaded TargetPlatform 'WindowsEditor'
+Loaded TargetPlatform 'WindowsServer'
+Loaded TargetPlatform 'WindowsClient'
+Building Assets For WindowsEditor
+Lib vorbis DLL was dynamically loaded.
+Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+Loaded format module MetalShaderFormat
+  SF_METAL
+  SF_METAL_MRT
+  SF_METAL_TVOS
+  SF_METAL_MRT_TVOS
+  SF_METAL_SM5
+  SF_METAL_SM6
+  SF_METAL_SIM
+  SF_METAL_MACES3_1
+  SF_METAL_MRT_MAC
+Loaded format module ShaderFormatD3D
+  PCD3D_SM6
+  PCD3D_SM5
+  PCD3D_ES31
+Loaded format module ShaderFormatOpenGL
+  GLSL_150_ES31
+  GLSL_ES3_1_ANDROID
+Loaded format module ShaderFormatVectorVM
+  VVM_1_0
+Loaded format module VulkanShaderFormat
+  SF_VULKAN_SM5
+  SF_VULKAN_ES31_ANDROID
+  SF_VULKAN_ES31
+  SF_VULKAN_SM5_ANDROID
+  SF_VULKAN_SM6
+Ray tracing is enabled (dynamic). Reason: r.RayTracing=1 and r.RayTracing.EnableOnDemand=1.
+Ray tracing shaders are enabled.
+Memory: Max Cache Size: -1 MB
+FDerivedDataBackendGraph: Pak pak cache file ../../../../../-Github-DreamLiveLife/DreamLicLifegithub/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+Unable to find inner node Pak for hierarchy Hierarchy.
+FDerivedDataBackendGraph: CompressedPak pak cache file ../../../../../-Github-DreamLiveLife/DreamLicLifegithub/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+Unable to find inner node CompressedPak for hierarchy Hierarchy.
+../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1616 MiB)
+FDerivedDataBackendGraph: EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+Found subprocess environment variable UE-ZenSubprocessDataPath=C:/Users/james/AppData/Local/UnrealEngine/Common/Zen/Data
+InTree version at 'F:/Unreal Engine System/UE_5.5/Engine/Binaries/Win64/zenserver.exe' is '5.5.7-202409112143-windows-x64-release-f523a01'
+Installed version at 'C:/Users/james/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe' is '5.5.7-202409112143-windows-x64-release-f523a01'
+Found existing instance running on port 8558 matching our settings, no actions needed
+Unreal Zen Storage Server HTTP service at [::1]:8558 status: OK!.
+Local ZenServer AutoLaunch initialization completed in 0.007 seconds
+ZenLocal: Using ZenServer HTTP service at http://[::1]:8558/ with namespace ue.ddc status: OK!.
+C:/Users/james/AppData/Local/UnrealEngine/Common/DerivedDataCache: Speed tests took 0.01 seconds.
+C:/Users/james/AppData/Local/UnrealEngine/Common/DerivedDataCache: Performance: Latency=0.03ms. RandomReadSpeed=1277.39MBs, RandomWriteSpeed=68.21MBs. Assigned SpeedClass 'Local'
+Local: Using data cache path C:/Users/james/AppData/Local/UnrealEngine/Common/DerivedDataCache: DeleteOnly
+ZenShared: Disabled because Host is set to 'None'
+Unable to find inner node ZenShared for hierarchy Hierarchy.
+Shared: Disabled because no path is configured.
+Unable to find inner node Shared for hierarchy Hierarchy.
+Cloud: Disabled because Host is set to 'None'
+Unable to find inner node Cloud for hierarchy Hierarchy.
+Guid format shader working directory is -9 characters bigger than the processId version (../../../../../-Github-DreamLiveLife/DreamLicLifegithub/Intermediate/Shaders/WorkingDirectory/5368/).
+Cleaned the shader compiler working directory 'C:/Users/james/AppData/Local/Temp/UnrealShaderWorkingDir/395AB22A45EB21FC0896D5B7141C425D/'.
+Cannot use XGE Controller as Incredibuild is not installed on this machine.
+Using Local Shader Compiler with 13 workers.
+Compiling shader autogen file: ../../../../../-Github-DreamLiveLife/DreamLicLifegithub/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
+Autogen file is unchanged, skipping write.
+FAssetRegistry took 0.0037 seconds to start up
+EditorDomain is Disabled
+AssetDataGatherer spent 0.002s loading caches ../../../../../-Github-DreamLiveLife/DreamLicLifegithub/Intermediate/CachedAssetRegistry_*.bin.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/E/KS/8RSJ7ZTLBXR0VIBLIBKKDE.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/E/BQ/ZUCUPU1CC2U3SPG0VBCYA2.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/D/MK/3S10C1QKD4B6LMFQARO8MO.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/D/KU/5AISR2XF00DA4C1LWQM8DJ.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/B/T6/XILOYRGA21CTE6OWIEC3SJ.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/D/A2/R7HTQ9WFVMDTWS6EBNWM3P.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/D/9I/K64QJ2855S2EKM6B4C8J9A.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/B/OR/FISNOFJPZA5Q9AU412G4ZI.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/C/U2/BDY2HIUN0RZ5U1NH8N1MJ0.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/B/MS/SSZ5U1K1SQCZ295LO0RYU7.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/B/OI/2QIWXRU0VTPRZ6KMMAI274.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/B/FK/AE5CNNARPAMULESYHLZL1K.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/B/87/GLRZODW9KROFH2JPIZ6ATC.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/B/HC/Z43XUE60FFUHSHXN4539NP.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/A/FD/QJQ5GEQBZ85LMU3ROR8WPI.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/A/BY/BC6G3WK0PKIJKYHPR6KPK0.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/A/EH/PVRFLX1O9QK90AY07T5OZA.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/9/WG/7YX63C814C95Q7YGBOYNCV.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/9/VE/BOHIDAA7S3K29SE5VQBV00.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/9/OY/CUWQEJVB75EGL1RZVHE3TI.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/9/J3/T4GLM6ZC0QETR606QEYFFP.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/8/Y8/GJ52PVAPPCON3PTE0RFMEQ.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/8/P4/EYB9O4YHX1I62FISTL613A.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/8/L1/T68KJ95NHFTNA7KW307SVX.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/8/4V/0OZ415TIHL9BQHW60UEVDD.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/7/UU/T3R0FY08AP15FO9Q6LF3FX.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/7/LN/UK78E722AUHKPSNN29M89H.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/7/IS/OGZW0F6Z7C3GA6WWZVSU25.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/6/GG/QV8AIOZKZZG9KZ47Q0CP6A.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/6/OC/9Z4ZUFB1W7L9H5CZQ5KRWH.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/6/DK/0PJ2YMWE70CGVUWML4QMEM.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/6/CD/YIAOPFDBAFGRRDU2YRCU4P.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/6/6B/0QW2V0TQZFS41SC9LKGMIL.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/6/43/PBE0NM1HJ96D0RLDDADQDF.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/6/2J/VL2N297ZPNGQKX7NOLJ5Y0.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/5/SF/YJRVU7FYPFESASD6ODZ7N1.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/5/O5/TIJFS8IAP3XWRZXFPJEIHQ.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/4/US/EVSOU6TTLZAB9M696RE10P.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/4/QY/ZFYHPNG5IDHUT07CRV2PHJ.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/4/P0/R6WB2QU9EZAGGXKQCZ7WK6.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/5/LO/V6FUZ71LIV3I1TVC3ZJRED.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/5/9T/33NLCDQU3SKZY0DB6I6E7D.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/4/YC/8UODKJQO7KFSVYPM14FTQJ.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/4/CM/NAUI1IZ12E5ORPEFBB46CF.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/4/C7/IZBNYGI3O675Y7O0QJH7JB.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/4/O2/XTIT8PZSGMDX5NXB2M30L6.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/4/4N/C8W0YOXBUFDR66SIHKENH1.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/4/3C/Q5LDLCP6CL5IIMZ2A74V5P.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/3/YG/MO6DHUD5R7OUPPNCD3BQNC.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/3/FU/GGS7ME586NYVAW19IOIFS2.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/3/E3/CCTZFGA7JYYGW112QZVNLS.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/3/59/MVKP9Y7LT96NURFPWGJFWY.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/2/M6/5HP1OA986F1R16W9SDQDCB.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/2/R7/NMZYZZ2NTQWZKSW5N625KB.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/2/69/ZND9JLJL76JPM02G0ENKTO.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/2/FK/UKXSKLV82J83M0ODYYSSW4.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/2/3U/F941ZIUK9WYU2SMFFJIVRW.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/1/5H/9DSHOJ4ANPLM3S9ODJSMFF.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/1/33/WFMV16N0PIYLGCC4KU5NJK.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/0/QT/3CSBHZ4ATUBT9AHUZDS8OT.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/0/MD/IK1JHEGXU6RUX3HUHD348T.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+Package is unloadable: F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/__ExternalActors__/DreamLiveLife/0/SO/5T5QLGPSAQO61NOIULBW22.uasset. Reason: Invalid value for PACKAGE_FILE_TAG at start of file.
+FlushAsyncLoading(1): 1 QueuedPackages, 0 AsyncPackages
+Texture Encode Speed: Final (cook).
+Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+Shared linear texture encoding: Disabled
+Deviceprofile LinuxArm64Editor not found.
+Deviceprofile LinuxArm64 not found.
+Active device profile: [00000B8B8AD24400][00000B8B8AF6E000 66] WindowsEditor
+Metadata set : deviceprofile="WindowsEditor"
+Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness has reached state ExportsDone > CreateLinkerLoadExports, releasing request 8 to allow recursive sync load to finish
+Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness with requester package /Engine/EngineMaterials/DefaultTextMaterialOpaque
+Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness (state: ExportsDone) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness has reached state ExportsDone > CreateLinkerLoadExports, releasing request 9 to allow recursive sync load to finish
+Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness with requester package /Engine/EngineMaterials/DefaultTextMaterialOpaque
+Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec has reached state ExportsDone > CreateLinkerLoadExports, releasing request 10 to allow recursive sync load to finish
+Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec with requester package /Engine/EngineMaterials/DefaultTextMaterialOpaque
+Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec (state: ExportsDone) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec has reached state ExportsDone > CreateLinkerLoadExports, releasing request 11 to allow recursive sync load to finish
+Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec with requester package /Engine/EngineMaterials/DefaultTextMaterialOpaque
+Flushing package /Engine/EngineMaterials/WorldGridMaterial (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness (state: ExportsDone) recursively from another package /Engine/EngineMaterials/WorldGridMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness has reached state ExportsDone > CreateLinkerLoadExports, releasing request 13 to allow recursive sync load to finish
+Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness with requester package /Engine/EngineMaterials/WorldGridMaterial
+Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec (state: ExportsDone) recursively from another package /Engine/EngineMaterials/WorldGridMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec has reached state ExportsDone > CreateLinkerLoadExports, releasing request 14 to allow recursive sync load to finish
+Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec with requester package /Engine/EngineMaterials/WorldGridMaterial
+Flushing package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/WorldGridMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness (state: ExportsDone) recursively from another package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness has reached state ExportsDone > CreateLinkerLoadExports, releasing request 16 to allow recursive sync load to finish
+Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness with requester package /Engine/EngineMaterials/DefaultDeferredDecalMaterial
+Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec (state: ExportsDone) recursively from another package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec has reached state ExportsDone > CreateLinkerLoadExports, releasing request 17 to allow recursive sync load to finish
+Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec with requester package /Engine/EngineMaterials/DefaultDeferredDecalMaterial
+Flushing package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness (state: ExportsDone) recursively from another package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness has reached state ExportsDone > CreateLinkerLoadExports, releasing request 19 to allow recursive sync load to finish
+Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness with requester package /Engine/EngineMaterials/DefaultLightFunctionMaterial
+Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec (state: ExportsDone) recursively from another package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec has reached state ExportsDone > CreateLinkerLoadExports, releasing request 20 to allow recursive sync load to finish
+Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec with requester package /Engine/EngineMaterials/DefaultLightFunctionMaterial
+Flushing package /Engine/EngineMaterials/DefaultPostProcessMaterial (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Merging postload groups of package /Engine/EngineMaterials/DefaultDiffuse with requester package /Engine/EngineMaterials/DefaultLightFunctionMaterial
+Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness (state: ExportsDone) recursively from another package /Engine/EngineMaterials/DefaultPostProcessMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness has reached state ExportsDone > CreateLinkerLoadExports, releasing request 22 to allow recursive sync load to finish
+Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness with requester package /Engine/EngineMaterials/DefaultPostProcessMaterial
+Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec (state: ExportsDone) recursively from another package /Engine/EngineMaterials/DefaultPostProcessMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec has reached state ExportsDone > CreateLinkerLoadExports, releasing request 23 to allow recursive sync load to finish
+Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec with requester package /Engine/EngineMaterials/DefaultPostProcessMaterial
+Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components with requester package /Engine/EngineMaterials/DefaultLightFunctionMaterial
+Package /Engine/EngineMaterials/DefaultPostProcessMaterial has reached state ExportsDone > CreateLinkerLoadExports, releasing request 21 to allow recursive sync load to finish
+Merging postload groups of package /Engine/EngineMaterials/DefaultPostProcessMaterial with requester package /Engine/EngineMaterials/DefaultLightFunctionMaterial
+Flushing package /Engine/EngineMaterials/DefaultPostProcessMaterial (state: ExportsDone) recursively from another package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Package /Engine/EngineMaterials/DefaultPostProcessMaterial has reached state ExportsDone > CreateLinkerLoadExports, releasing request 24 to allow recursive sync load to finish
+Merging postload groups of package /Engine/EngineMaterials/DefaultPostProcessMaterial with requester package /Engine/EngineMaterials/DefaultLightFunctionMaterial
+Package /Engine/EngineMaterials/DefaultLightFunctionMaterial has reached state ExportsDone > CreateLinkerLoadExports, releasing request 18 to allow recursive sync load to finish
+Merging postload groups of package /Engine/EngineMaterials/DefaultLightFunctionMaterial with requester package /Engine/EngineMaterials/DefaultDeferredDecalMaterial
+Flushing package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: ExportsDone) recursively from another package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Package /Engine/EngineMaterials/DefaultLightFunctionMaterial has reached state ExportsDone > CreateLinkerLoadExports, releasing request 25 to allow recursive sync load to finish
+Merging postload groups of package /Engine/EngineMaterials/DefaultLightFunctionMaterial with requester package /Engine/EngineMaterials/DefaultDeferredDecalMaterial
+Package /Engine/EngineMaterials/DefaultDeferredDecalMaterial has reached state ExportsDone > CreateLinkerLoadExports, releasing request 15 to allow recursive sync load to finish
+Merging postload groups of package /Engine/EngineMaterials/DefaultDeferredDecalMaterial with requester package /Engine/EngineMaterials/WorldGridMaterial
+Flushing package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: ExportsDone) recursively from another package /Engine/EngineMaterials/WorldGridMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Package /Engine/EngineMaterials/DefaultDeferredDecalMaterial has reached state ExportsDone > CreateLinkerLoadExports, releasing request 26 to allow recursive sync load to finish
+Merging postload groups of package /Engine/EngineMaterials/DefaultDeferredDecalMaterial with requester package /Engine/EngineMaterials/WorldGridMaterial
+Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade with requester package /Engine/EngineMaterials/DefaultTextMaterialOpaque
+Merging postload groups of package /Engine/EngineMaterials/T_Default_Material_Grid_M with requester package /Engine/EngineMaterials/DefaultTextMaterialOpaque
+Merging postload groups of package /Engine/EngineMaterials/T_Default_Material_Grid_N with requester package /Engine/EngineMaterials/DefaultTextMaterialOpaque
+Package /Engine/EngineMaterials/WorldGridMaterial has reached state ExportsDone > CreateLinkerLoadExports, releasing request 12 to allow recursive sync load to finish
+Merging postload groups of package /Engine/EngineMaterials/WorldGridMaterial with requester package /Engine/EngineMaterials/DefaultTextMaterialOpaque
+Flushing package /Engine/EngineMaterials/WorldGridMaterial (state: ExportsDone) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Package /Engine/EngineMaterials/WorldGridMaterial has reached state ExportsDone > CreateLinkerLoadExports, releasing request 27 to allow recursive sync load to finish
+Merging postload groups of package /Engine/EngineMaterials/WorldGridMaterial with requester package /Engine/EngineMaterials/DefaultTextMaterialOpaque
+Using QuadricMeshReduction for automatic static mesh reduction
+Using SkeletalMeshReduction for automatic skeletal mesh reduction
+Using ProxyLODMeshReduction for automatic mesh merging
+No distributed automatic mesh merging module available
+No distributed automatic mesh merging module available
+Branch 'PIEPreviewSettings' had been unloaded. Reloading on-demand took 1.02ms
+Branch 'GameplayTagsList' had been unloaded. Reloading on-demand took 1.02ms
+Branch 'TemplateDefs' had been unloaded. Reloading on-demand took 1.00ms
+Branch 'TemplateCategories' had been unloaded. Reloading on-demand took 1.00ms
+VirtualizationSystem name found in ini file: None
+FNullVirtualizationSystem mounted, virtualization will be disabled
+Border
+BreadcrumbButton
+Brushes.Title
+Default
+Icons.Save
+Icons.Toolbar.Settings
+ListView
+SoftwareCursor_CardinalCross
+SoftwareCursor_Grab
+TableView.DarkRow
+TableView.Row
+TreeView
+Branch 'TranslationPickerSettings' had been unloaded. Reloading on-demand took 1.02ms
+FWorldPartitionClassDescRegistry::Initialize started...
+FWorldPartitionClassDescRegistry::Initialize took 2.532 ms
+Branch 'Mass' had been unloaded. Reloading on-demand took 1.13ms
+XR: Instanced Stereo Rendering is Disabled
+XR: MultiViewport is Disabled
+XR: Mobile Multiview is Disabled
+Niagara Debugger Client Initialized | Session: C8046607082D45C88000000000009500 | Instance: 8DA04F2B4991C659791A79B711475FDE (DESKTOP-6U4JMTE-5368).
+MetaSound Page Target Initialized to 'Default'
+Registering Engine Module Parameter Interfaces...
+MetaSound Engine Initialized
+Available graphics and compute adapters:
+0: NVIDIA GeForce RTX 4060 Ti (Compute, Graphics)
+1: Microsoft Basic Render Driver (Compute, Graphics)
+No NPU adapter found!
+Applying CVar settings from Section [/Script/PCG.PCGEngineSettings] File [Engine]
+UAndroidPermissionCallbackProxy::GetInstance
+No Audio Capture implementations found. Audio input will be silent.
+No Audio Capture implementations found. Audio input will be silent.
+Updated LibraryPaths for USD plugInfo.json file 'F:/Unreal Engine System/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/glf/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'F:/Unreal Engine System/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/ndr/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'F:/Unreal Engine System/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdImaging/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'F:/Unreal Engine System/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdRiPxrImaging/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'F:/Unreal Engine System/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hd/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'F:/Unreal Engine System/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/sdrGlslfx/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'F:/Unreal Engine System/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdMtlx/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'F:/Unreal Engine System/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdSkelImaging/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'F:/Unreal Engine System/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdProc/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'F:/Unreal Engine System/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hdSt/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'F:/Unreal Engine System/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdVol/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'F:/Unreal Engine System/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdUI/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'F:/Unreal Engine System/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hdx/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'F:/Unreal Engine System/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdLux/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'F:/Unreal Engine System/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hgiGL/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'F:/Unreal Engine System/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdShaders/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'F:/Unreal Engine System/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdRi/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'F:/Unreal Engine System/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hio/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'F:/Unreal Engine System/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/sdf/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'F:/Unreal Engine System/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdShade/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'F:/Unreal Engine System/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdRender/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'F:/Unreal Engine System/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usd/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'F:/Unreal Engine System/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdPhysics/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'F:/Unreal Engine System/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdGeom/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'F:/Unreal Engine System/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hdGp/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'F:/Unreal Engine System/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdHydra/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'F:/Unreal Engine System/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdImagingGL/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'F:/Unreal Engine System/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdSkel/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'F:/Unreal Engine System/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/ar/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'F:/Unreal Engine System/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdMedia/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'F:/Unreal Engine System/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hdStorm/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'F:/Unreal Engine System/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdProcImaging/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'F:/Unreal Engine System/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdAbc/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'F:/Unreal Engine System/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdVolImaging/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'F:/Unreal Engine System/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usd/resources/codegenTemplates/plugInfo.json'
+Revision control is disabled
+Revision control is disabled
+Unable to create Visual Studio setup instance: 80040154
+Unable to create Visual Studio setup instance: 80040154
+Unable to create Visual Studio setup instance: 80040154
+Branch 'ObjectMixerSerializedData' had been unloaded. Reloading on-demand took 1.02ms
+Branch 'Crypto' had been unloaded. Reloading on-demand took 0.98ms
+Applying CVar settings from Section [/Script/NNEDenoiser.NNEDenoiserSettings] File [Engine]
+Loaded 0 collections in 0.001307 seconds
+Scanning file cache for directory 'F:/-Github-DreamLiveLife/DreamLicLifegithub/Saved/Collections/' took 0.00s
+Scanning file cache for directory 'F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/Developers/james/Collections/' took 0.00s
+Scanning file cache for directory 'F:/-Github-DreamLiveLife/DreamLicLifegithub/Content/Collections/' took 0.00s
+45746 objects as part of root set at end of initial load.
+CloseDisregardForGC: 0/0 objects in disregard for GC pool
+AsyncLoading2 - NotifyRegistrationComplete: Registered 38709 public script object entries (1040.81 KB)
+AsyncLoading2 - Thread Started: false, IsInitialLoad: false
+Executing Class /Script/UnrealEd.WorldPartitionBuilderCommandlet
+Initializing Editor Engine...
+Initializing Engine...
+UGameplayTagsManager::InitializeManager -  0.000 s
+Oodle Texture loading DLL: oo2tex_win64_2.9.11.dll
+Not creating Chaos Debug Draw Scene for world Untitled
+Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+Texture streaming: Enabled
+Metadata set : largeworldcoordinates="1"
+Initializing Editor Engine Completed
+Using Python 3.11.8
+No enabled plugins with python dependencies found, skipping
+LevelSequenceEditor subsystem initialized.
+Collision Profile settings do not include an entry for the Water Body Collision profile, which is required for water collision to function. Add entry to DefaultEngine.ini?
+Initializing
+Initialized
+Triggering cache save on discovery complete
+Revision control is disabled
+Execution started...
+SearchForPackageOnDisk took   0.000s to resolve /Game/DreamLiveLife.
+SearchForPackageOnDisk took   0.000s to resolve /Game/DreamLiveLife.
+Revision control is disabled
+Not creating Chaos Debug Draw Scene for world DreamLiveLife
+ULevel::OnLevelLoaded(DreamLiveLife)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+WorldPartition initialize started...
+UWorldPartition::Initialize : World = /Game/DreamLiveLife.DreamLiveLife, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+Can't find class descriptor '/Game/pcgBiomes/NewBlueprint.NewBlueprint_C' for loading '/Game/DreamLiveLife.DreamLiveLife:PersistentLevel.NewBlueprint_C_UAID_74563C652790173602_1816834567', using '/Script/Engine.Actor'
+Unknown actor base class `/Game/pcgBiomes/NewBlueprint.NewBlueprint_C`: Actor: 'NewBlueprint_C_UAID_74563C652790173602_1816834567' (guid '851123C046AD34BD0065BEAE6FA6FC40') from package '/Game/__ExternalActors__/DreamLiveLife/4/GD/5YTDGNWJBK2WIACOKEBCFZ'
+Can't find class descriptor '/Landmass/Landscape/BlueprintBrushes/LandmassBrushManager.LandmassBrushManager_C' for loading '/Game/DreamLiveLife.DreamLiveLife:PersistentLevel.LandmassBrushManager_C_UAID_74563C652790093502_1348508049', using '/Script/Engine.Actor'
+Unknown actor base class `/Landmass/Landscape/BlueprintBrushes/LandmassBrushManager.LandmassBrushManager_C`: Actor: 'LandmassBrushManager_C_UAID_74563C652790093502_1348508049' (guid 'E288768645F93068997191B9A414E4FD') from package '/Game/__ExternalActors__/DreamLiveLife/8/B6/C4GO0OA6VQEOUVXUDQPLFV'
+Can't find class descriptor '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C' for loading '/Game/DreamLiveLife.DreamLiveLife:PersistentLevel.BP_ThirdPersonCharacter_C_UAID_74563C6527900D3602_1467334809', using '/Script/Engine.Actor'
+Unknown actor base class `/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C`: Actor: 'BP_ThirdPersonCharacter_C_UAID_74563C6527900D3602_1467334809' (guid '3D2B965E4064C1CA9E5142878CCC4D2A') from package '/Game/__ExternalActors__/DreamLiveLife/8/E7/ENNTN4NO9PHNAXN7UDUQZ9'
+Can't find class descriptor '/Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C' for loading '/Game/DreamLiveLife.DreamLiveLife:PersistentLevel.Landscape_CustomBrush_Landmass_C_0', using '/Script/Engine.Actor'
+Unknown actor base class `/Landmass/Landscape/BlueprintBrushes/CustomBrush_Landmass.CustomBrush_Landmass_C`: Actor: 'Landscape_CustomBrush_Landmass_C_0' (guid '7B9CB7924D4678BE339634898DFA32DA') from package '/Game/__ExternalActors__/DreamLiveLife/9/73/I04LWYEXPDJYEHS8DW9HB7'
+WorldPartition initialize took 25.598 ms
+[1 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X323_Y251_Z-16...
+[2 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X346_Y246_Z-16...
+[3 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L7_X-1_Y-1_Z-1...
+Marking existing HLOD actor "DreamLiveLife_HLODLayer_Instanced/DreamLiveLife_RuntimePartitionLHGrid_0_L7_X-1_Y-1_Z-1" dirty, reason "CellBounds".
+[4 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L7_X5_Y2_Z-1...
+Marking existing HLOD actor "DreamLiveLife_HLODLayer_Instanced/DreamLiveLife_RuntimePartitionLHGrid_0_L7_X5_Y2_Z-1" dirty, reason "CellBounds".
+[5 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X319_Y274_Z-16...
+[6 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L7_X0_Y2_Z-1...
+Marking existing HLOD actor "DreamLiveLife_HLODLayer_Instanced/DreamLiveLife_RuntimePartitionLHGrid_0_L7_X0_Y2_Z-1" dirty, reason "CellBounds".
+[7 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X274_Y269_Z-16...
+[8 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X314_Y265_Z-16...
+[9 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X328_Y278_Z-16...
+[10 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X278_Y287_Z-16...
+[11 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X310_Y269_Z-16...
+[12 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X228_Y274_Z-16...
+[13 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X319_Y265_Z-16...
+[14 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X233_Y283_Z-16...
+[15 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X274_Y287_Z-16...
+[16 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X292_Y278_Z-16...
+[17 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X228_Y269_Z-16...
+[18 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X332_Y269_Z-16...
+[19 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X323_Y269_Z-16...
+[20 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X228_Y278_Z-16...
+[21 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X360_Y246_Z-16...
+[22 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X319_Y278_Z-16...
+[23 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X332_Y255_Z-16...
+[24 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X337_Y265_Z-16...
+[25 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X305_Y269_Z-16...
+[26 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X328_Y265_Z-16...
+[27 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X301_Y274_Z-16...
+[28 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X328_Y260_Z-16...
+[29 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X342_Y265_Z-16...
+[30 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X342_Y251_Z-16...
+[31 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X305_Y274_Z-16...
+[32 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X310_Y265_Z-16...
+[33 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X323_Y255_Z-16...
+[34 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X310_Y283_Z-16...
+[35 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X296_Y274_Z-16...
+[36 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X319_Y260_Z-16...
+[37 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X314_Y278_Z-16...
+[38 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X305_Y265_Z-16...
+[39 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X328_Y274_Z-16...
+[40 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X310_Y260_Z-16...
+[41 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X328_Y269_Z-16...
+[42 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X228_Y283_Z-16...
+[43 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L7_X1_Y2_Z-1...
+Marking existing HLOD actor "DreamLiveLife_HLODLayer_Instanced/DreamLiveLife_RuntimePartitionLHGrid_0_L7_X1_Y2_Z-1" dirty, reason "CellBounds".
+[44 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X332_Y274_Z-16...
+[45 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X342_Y242_Z-16...
+[46 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X310_Y274_Z-16...
+[47 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X332_Y265_Z-16...
+[48 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X346_Y251_Z-16...
+[49 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X314_Y260_Z-16...
+[50 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X260_Y278_Z-16...
+[51 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X346_Y260_Z-16...
+[52 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X337_Y246_Z-16...
+[53 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X296_Y269_Z-16...
+[54 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X337_Y251_Z-16...
+[55 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X342_Y260_Z-16...
+[56 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X310_Y287_Z-16...
+[57 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X319_Y269_Z-16...
+[58 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X364_Y246_Z-16...
+[59 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X301_Y265_Z-16...
+[60 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X332_Y260_Z-16...
+[61 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X260_Y287_Z-16...
+[62 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X323_Y274_Z-16...
+[63 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X328_Y255_Z-16...
+[64 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X323_Y265_Z-16...
+[65 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X314_Y269_Z-16...
+[66 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X342_Y246_Z-16...
+[67 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X342_Y237_Z-16...
+[68 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X314_Y274_Z-16...
+[69 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X246_Y287_Z-16...
+[70 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X233_Y278_Z-16...
+[71 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X233_Y274_Z-16...
+[72 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X323_Y278_Z-16...
+[73 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X301_Y269_Z-16...
+[74 / 75] Processing cell DreamLiveLife_RuntimePartitionLHGrid_0_L0_X233_Y269_Z-16...
+Creating HLOD context:
+	- Guid:37FFF5574B09AE94C29E02A527D1DE18 NativeClass:/Script/Engine.WorldPartitionHLOD Name:DreamLiveLife_HLODLayer_Instanced_00000000437d14f6 Label:DreamLiveLife_HLODLayer_Instanced/DreamLiveLife_RuntimePartitionLHGrid_0_L7_X-1_Y-1_Z-1 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-951580.000 Y=-612000.000 Z=-99900.000), Max=(X=272420.000 Y=0.000 Z=-89653.906) RuntimeBounds:IsValid=true, Min=(X=-951580.000 Y=-612000.000 Z=-100000.000), Max=(X=-339580.000 Y=0.000 Z=-99800.000) RuntimeGrid:RuntimePartitionLHGrid_0:HLODLayer_Instanced EditorOnly:false RuntimeOnly:true HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false HLODLayer:/Game/HDLODLAYERS/DreamLiveLife_HLODLayer_Merged.DreamLiveLife_HLODLayer_Merged FolderPath:HLOD/DreamLiveLife_HLODLayer_Instanced FolderGuid:4B2049D5414F2A8A07F7E195CAA74CA2
+	- Guid:F152180D49C1CDA100ED6BBD850FCA57 NativeClass:/Script/Engine.WorldPartitionHLOD Name:DreamLiveLife_HLODLayer_Instanced_0000000084aeeaf4 Label:DreamLiveLife_HLODLayer_Instanced/DreamLiveLife_RuntimePartitionLHGrid_0_L7_X5_Y2_Z-1 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=3332420.000 Y=1224000.000 Z=-99900.000), Max=(X=3944420.000 Y=2448000.000 Z=-99900.000) RuntimeBounds:IsValid=true, Min=(X=3332420.000 Y=1224000.000 Z=-100000.000), Max=(X=3944420.000 Y=1836000.000 Z=-99800.000) RuntimeGrid:RuntimePartitionLHGrid_0:HLODLayer_Instanced EditorOnly:false RuntimeOnly:true HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false HLODLayer:/Game/HDLODLAYERS/DreamLiveLife_HLODLayer_Merged.DreamLiveLife_HLODLayer_Merged FolderPath:HLOD/DreamLiveLife_HLODLayer_Instanced FolderGuid:4B2049D5414F2A8A07F7E195CAA74CA2
+	- Guid:EBCAD2F54153F6AC08757295C68EB818 NativeClass:/Script/Engine.WorldPartitionHLOD Name:DreamLiveLife_HLODLayer_Instanced_0000000020c322e8 Label:DreamLiveLife_HLODLayer_Instanced/DreamLiveLife_RuntimePartitionLHGrid_0_L7_X0_Y2_Z-1 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=272420.000 Y=1224000.000 Z=-99900.000), Max=(X=884420.000 Y=2448000.000 Z=-89651.562) RuntimeBounds:IsValid=true, Min=(X=272420.000 Y=1224000.000 Z=-92080.469), Max=(X=884420.000 Y=1836000.000 Z=-89453.906) RuntimeGrid:RuntimePartitionLHGrid_0:HLODLayer_Instanced EditorOnly:false RuntimeOnly:true HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false HLODLayer:/Game/HDLODLAYERS/DreamLiveLife_HLODLayer_Merged.DreamLiveLife_HLODLayer_Merged FolderPath:HLOD/DreamLiveLife_HLODLayer_Instanced FolderGuid:4B2049D5414F2A8A07F7E195CAA74CA2
+	- Guid:8B93D6E042E545AC9B80AA8D9D621064 NativeClass:/Script/Engine.WorldPartitionHLOD Name:DreamLiveLife_HLODLayer_Instanced_00000000d2932885 Label:DreamLiveLife_HLODLayer_Instanced/DreamLiveLife_RuntimePartitionLHGrid_0_L7_X1_Y2_Z-1 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=884420.000 Y=1224000.000 Z=-99900.000), Max=(X=1496420.000 Y=2448000.000 Z=-89610.938) RuntimeBounds:IsValid=true, Min=(X=746425.007 Y=1191225.007 Z=-146251.000), Max=(X=1345514.993 Y=1790314.993 Z=-86251.000) RuntimeGrid:RuntimePartitionLHGrid_0:HLODLayer_Instanced EditorOnly:false RuntimeOnly:true HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false HLODLayer:/Game/HDLODLAYERS/DreamLiveLife_HLODLayer_Merged.DreamLiveLife_HLODLayer_Merged FolderPath:HLOD/DreamLiveLife_HLODLayer_Instanced FolderGuid:4B2049D5414F2A8A07F7E195CAA74CA2
+[1 / 4] Processing cell DreamLiveLife_HLODLayer_Instanced_L6_X-1_Y-1_Z-1...
+[2 / 4] Processing cell DreamLiveLife_HLODLayer_Instanced_L6_X5_Y2_Z-1...
+[3 / 4] Processing cell DreamLiveLife_HLODLayer_Instanced_L6_X0_Y2_Z-1...
+[4 / 4] Processing cell DreamLiveLife_HLODLayer_Instanced_L6_X1_Y2_Z-1...
+Asset registry cache written as 85.4 MiB to ../../../../../-Github-DreamLiveLife/DreamLicLifegithub/Intermediate/CachedAssetRegistry_*.bin
+#### World HLOD actors ####
+    [0] /Game/__ExternalActors__/DreamLiveLife/7/4O/62NKSO3VZ8LTD5YDQ8H1TI
+    [1] /Game/__ExternalActors__/DreamLiveLife/A/5H/WKZMQP872AQSRC93KH7DUR
+    [2] /Game/__ExternalActors__/DreamLiveLife/D/4W/5RL5K6JJ9C5APDW25OO4TR
+    [3] /Game/__ExternalActors__/DreamLiveLife/E/NW/R8MMK5TBP2BVOCCNJEL6I8
+    [4] /Game/__ExternalActors__/DreamLiveLife/D/OX/DLZXAF18HZ55DNONDM1LMP
+    [5] /Game/__ExternalActors__/DreamLiveLife/6/HQ/WUR4MDH8LUXXBD8XCP4SII
+    [6] /Game/__ExternalActors__/DreamLiveLife/A/GC/B4MUECHKLAQ1073ZJJ0CWH
+    [7] /Game/__ExternalActors__/DreamLiveLife/D/9G/OQFYNIH49SCKMA95QX53JA
+#### World contains 8 HLOD actors ####
+#### Building 8 HLOD actors ####
+[1 / 8] Building HLOD actor DreamLiveLife_HLODLayer_Instanced/DreamLiveLife_RuntimePartitionLHGrid_0_L7_X-1_Y-1_Z-1...
+Branch 'LocalizationServiceSettings' had been unloaded. Reloading on-demand took 1.04ms
+Localization service is disabled
+Texture pool size now 1000 MB
+Metadata set : streamingpoolsizemb="1000"
+Running start-up script F:/Unreal Engine System/UE_5.5/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... started...
+registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
+
+Running start-up script F:/Unreal Engine System/UE_5.5/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... took 67.079 ms
+Going up to parent DeviceProfile []
+Going up to parent DeviceProfile []
+Going up to parent DeviceProfile []
+Going up to parent DeviceProfile [AppleTV]
+Going up to parent DeviceProfile [IOS]
+Going up to parent DeviceProfile []
+Deviceprofile None not found.
+Blocking on texture streaming: 110.0 ms (85 still in flight)
+Blocking on texture streaming: 109.4 ms (85 still in flight)
+Blocking on texture streaming: 109.7 ms (82 still in flight)
+Blocking on texture streaming: 109.5 ms (79 still in flight)
+Blocking on texture streaming: 109.5 ms (77 still in flight)
+Blocking on texture streaming: 109.4 ms (73 still in flight)
+Blocking on texture streaming: 109.5 ms (68 still in flight)
+Blocking on texture streaming: 109.0 ms (66 still in flight)
+Blocking on texture streaming: 110.1 ms (52 still in flight)
+Blocking on texture streaming: 107.8 ms (0 still in flight)
+ApplySettings: bDenoiserEnabled 1
+Loaded input mapping from NNEDIM_ColorAlbedoNormal_Alpha
+Loaded output mapping from NNEDOM_Output_Alpha
+Try create model instance with runtime NNERuntimeORTDml on RDG...
+Created model instance with runtime NNERuntimeORTDml on RDG
+Create denoiser from asset /NNEDenoiser/NNED_Oidn2-3_Balanced_Alpha.NNED_Oidn2-3_Balanced_Alpha...
+Loaded input mapping from NNEDTIM_ColorAlbedoNormal_Alpha
+Loaded output mapping from NNEDTOM_Output_Alpha
+Try create model instance with runtime NNERuntimeORTDml on RDG...
+Created model instance with runtime NNERuntimeORTDml on RDG
+Create temporal denoiser from asset /NNEDenoiser/NNEDT_Oidn2-3_Balanced_Alpha.NNEDT_Oidn2-3_Balanced_Alpha...
+Creating RTPSO with 24 shaders (0 cached, 24 new) took 73.29 ms. Compile time 57.17 ms, link time 16.11 ms.
+Creating RTPSO with 10 shaders (0 cached, 10 new) took 116.23 ms. Compile time 96.88 ms, link time 19.27 ms.
+Building static mesh StaticMesh_0 (Required Memory Estimate: 0.064047 MB)...
+Waiting for static meshes to be ready 0/1 (/Game/__ExternalActors__/DreamLiveLife/E/NW/R8MMK5TBP2BVOCCNJEL6I8) ...
+Built static mesh [0.02s] /Game/__ExternalActors__/DreamLiveLife/E/NW/R8MMK5TBP2BVOCCNJEL6I8.StaticMesh_0
+HLOD actor DreamLiveLife_HLODLayer_Instanced/DreamLiveLife_RuntimePartitionLHGrid_0_L7_X-1_Y-1_Z-1 was modified, saving...
+[2 / 8] Building HLOD actor DreamLiveLife_HLODLayer_Merged/DreamLiveLife_HLODLayer_Instanced_L6_X-1_Y-1_Z-1...
+AssetRegistryGather time 0.1141s: AssetDataDiscovery 0.0258s, AssetDataGather 0.0223s, StoreResults 0.0660s. Wall time 7.9440s.
+	NumCachedDirectories 0. NumUncachedDirectories 2278. NumCachedFiles 9050. NumUncachedFiles 17.
+	BackgroundTickInterruptions 11.
+Fixed up redirectors for 0 collections in 0.000000 seconds (updated 0 objects)
+Building static mesh StaticMesh_DreamLiveLife_HLODLayer_Instanced_1 (Required Memory Estimate: 0.064047 MB)...
+Built static mesh [0.00s] /Game/Temp/HLODLevelStreaming_DreamLiveLife_HLODLayer_Merged_000000007678559d_InstanceOf_/Game/__ExternalActors__/DreamLiveLife/E/NW/R8MMK5TBP2BVOCCNJEL6I8.StaticMesh_DreamLiveLife_HLODLayer_Instanced_1
+Mesh would require 67108864 x 67108864 textures, clamping down to maximum (8192 x 8192)
+Texture T_DreamLiveLife_HLODLayer_Instanced_L6_X-1_Y-1_Z-1_BaseColor was VT, but VT is off on the project, turning off on texture.
+Building textures: /Game/__ExternalActors__/DreamLiveLife/D/OX/DLZXAF18HZ55DNONDM1LMP.T_DreamLiveLife_HLODLayer_Instanced_L6_X-1_Y-1_Z-1_BaseColor (TFO_DXT1, 8192x8192 x1x1x1) (Required Memory Estimate: 4480.999983 MB), EncodeSpeed: Final
+Texture T_DreamLiveLife_HLODLayer_Instanced_L6_X-1_Y-1_Z-1_Normal was VT, but VT is off on the project, turning off on texture.
+Texture T_DreamLiveLife_HLODLayer_Instanced_L6_X-1_Y-1_Z-1_MRS was VT, but VT is off on the project, turning off on texture.
+Building textures: /Game/__ExternalActors__/DreamLiveLife/D/OX/DLZXAF18HZ55DNONDM1LMP.T_DreamLiveLife_HLODLayer_Instanced_L6_X-1_Y-1_Z-1_MRS (TFO_DXT1, 8192x8192 x1x1x1) (Required Memory Estimate: 4480.999983 MB), EncodeSpeed: Final
+Texture T_DreamLiveLife_HLODLayer_Instanced_L6_X-1_Y-1_Z-1_EmissiveColor was VT, but VT is off on the project, turning off on texture.
+Building static mesh SM_DreamLiveLife_HLODLayer_Instanced_L6_X-1_Y-1_Z-1 (Required Memory Estimate: 0.060122 MB)...
+Built static mesh [0.00s] /Game/__ExternalActors__/DreamLiveLife/D/OX/DLZXAF18HZ55DNONDM1LMP.SM_DreamLiveLife_HLODLayer_Instanced_L6_X-1_Y-1_Z-1
+HLOD actor DreamLiveLife_HLODLayer_Merged/DreamLiveLife_HLODLayer_Instanced_L6_X-1_Y-1_Z-1 was modified, saving...
+[3 / 8] Building HLOD actor DreamLiveLife_HLODLayer_Instanced/DreamLiveLife_RuntimePartitionLHGrid_0_L7_X0_Y2_Z-1...
+Blocking on texture streaming: 105.3 ms (1 still in flight)
+Texture DreamLiveLife_RuntimePartitionLHGrid_0_L7_X0_Y2_Z-1T_LandscapeStreamingProxy_0Y0FTW0R2E6EUL3WNWUKZEK4K_1020_2_6_0_Normal was VT, but VT is off on the project, turning off on texture.
+Building textures: /Game/__ExternalActors__/DreamLiveLife/7/4O/62NKSO3VZ8LTD5YDQ8H1TI.DreamLiveLife_RuntimePartitionLHGrid_0_L7_X0_Y2_Z-1T_LandscapeStreamingProxy_0Y0FTW0R2E6EUL3WNWUKZEK4K_1020_2_6_0_Normal (TFO_BC5, 256x256 x1x1x1) (Required Memory Estimate: 19.499759 MB), EncodeSpeed: Final
+Building static mesh StaticMesh_0 (Required Memory Estimate: 0.064047 MB)...
+Building textures: /Game/__ExternalActors__/DreamLiveLife/7/4O/62NKSO3VZ8LTD5YDQ8H1TI.DreamLiveLife_RuntimePartitionLHGrid_0_L7_X0_Y2_Z-1T_LandscapeStreamingProxy_0Y0FTW0R2E6EUL3WNWUKZEK4K_1020_2_6_0_Normal (TFO_BC5, 256x256 x1x1x1) (Required Memory Estimate: 19.499759 MB), EncodeSpeed: Final
+Built static mesh [0.00s] /Game/__ExternalActors__/DreamLiveLife/7/4O/62NKSO3VZ8LTD5YDQ8H1TI.StaticMesh_0
+HLOD actor DreamLiveLife_HLODLayer_Instanced/DreamLiveLife_RuntimePartitionLHGrid_0_L7_X0_Y2_Z-1 was modified, saving...
+[4 / 8] Building HLOD actor DreamLiveLife_HLODLayer_Merged/DreamLiveLife_HLODLayer_Instanced_L6_X0_Y2_Z-1...
+Building static mesh StaticMesh_DreamLiveLife_HLODLayer_Instanced_1 (Required Memory Estimate: 0.064047 MB)...
+Built static mesh [0.00s] /Game/Temp/HLODLevelStreaming_DreamLiveLife_HLODLayer_Merged_0000000010f76a75_InstanceOf_/Game/__ExternalActors__/DreamLiveLife/7/4O/62NKSO3VZ8LTD5YDQ8H1TI.StaticMesh_DreamLiveLife_HLODLayer_Instanced_1
+Finished distance field build in 3.8s - 126x126x126 sparse distance field, 3.3Mb total, 0.1Mb always loaded, 100% occupied, 10 triangles, StaticMesh_DreamLiveLife_HLODLayer_Instanced_1
+Finished distance field build in 3.8s - 126x126x126 sparse distance field, 3.3Mb total, 0.1Mb always loaded, 100% occupied, 10 triangles, StaticMesh_DreamLiveLife_HLODLayer_Instanced_1
+Blocking on texture streaming: 32.4 ms (0 still in flight)
+Mesh would require 67108864 x 67108864 textures, clamping down to maximum (8192 x 8192)
+Texture T_DreamLiveLife_HLODLayer_Instanced_L6_X0_Y2_Z-1_BaseColor was VT, but VT is off on the project, turning off on texture.
+Texture T_DreamLiveLife_HLODLayer_Instanced_L6_X0_Y2_Z-1_Normal was VT, but VT is off on the project, turning off on texture.
+Building textures: /Game/__ExternalActors__/DreamLiveLife/A/GC/B4MUECHKLAQ1073ZJJ0CWH.T_DreamLiveLife_HLODLayer_Instanced_L6_X0_Y2_Z-1_Normal (TFO_BC5, 8192x8192 x1x1x1) (Required Memory Estimate: 4608.999984 MB), EncodeSpeed: Final
+Texture T_DreamLiveLife_HLODLayer_Instanced_L6_X0_Y2_Z-1_MRS was VT, but VT is off on the project, turning off on texture.
+Texture T_DreamLiveLife_HLODLayer_Instanced_L6_X0_Y2_Z-1_EmissiveColor was VT, but VT is off on the project, turning off on texture.
+Building static mesh SM_DreamLiveLife_HLODLayer_Instanced_L6_X0_Y2_Z-1 (Required Memory Estimate: 0.060108 MB)...
+Built static mesh [0.00s] /Game/__ExternalActors__/DreamLiveLife/A/GC/B4MUECHKLAQ1073ZJJ0CWH.SM_DreamLiveLife_HLODLayer_Instanced_L6_X0_Y2_Z-1
+HLOD actor DreamLiveLife_HLODLayer_Merged/DreamLiveLife_HLODLayer_Instanced_L6_X0_Y2_Z-1 was modified, saving...
+[5 / 8] Building HLOD actor DreamLiveLife_HLODLayer_Instanced/DreamLiveLife_RuntimePartitionLHGrid_0_L7_X5_Y2_Z-1...
+Blocking on texture streaming: 100.5 ms (0 still in flight)
+Building static mesh StaticMesh_0 (Required Memory Estimate: 0.064047 MB)...
+Built static mesh [0.00s] /Game/__ExternalActors__/DreamLiveLife/D/4W/5RL5K6JJ9C5APDW25OO4TR.StaticMesh_0
+HLOD actor DreamLiveLife_HLODLayer_Instanced/DreamLiveLife_RuntimePartitionLHGrid_0_L7_X5_Y2_Z-1 was modified, saving...
+[6 / 8] Building HLOD actor DreamLiveLife_HLODLayer_Merged/DreamLiveLife_HLODLayer_Instanced_L6_X5_Y2_Z-1...
+Building static mesh StaticMesh_DreamLiveLife_HLODLayer_Instanced_1 (Required Memory Estimate: 0.064047 MB)...
+Building static mesh StaticMesh_DreamLiveLife_HLODLayer_Instanced_1 (Required Memory Estimate: 0.064047 MB)...
+Built static mesh [0.00s] /Game/__ExternalActors__/DreamLiveLife/D/4W/5RL5K6JJ9C5APDW25OO4TR.StaticMesh_DreamLiveLife_HLODLayer_Instanced_1
+Built static mesh [0.00s] /Game/Temp/HLODLevelStreaming_DreamLiveLife_HLODLayer_Merged_00000000e042ad0e_InstanceOf_/Game/__ExternalActors__/DreamLiveLife/D/4W/5RL5K6JJ9C5APDW25OO4TR.StaticMesh_DreamLiveLife_HLODLayer_Instanced_1
+Mesh would require 67108864 x 67108864 textures, clamping down to maximum (8192 x 8192)
+Texture T_DreamLiveLife_HLODLayer_Instanced_L6_X5_Y2_Z-1_BaseColor was VT, but VT is off on the project, turning off on texture.
+Texture T_DreamLiveLife_HLODLayer_Instanced_L6_X5_Y2_Z-1_Normal was VT, but VT is off on the project, turning off on texture.
+Texture T_DreamLiveLife_HLODLayer_Instanced_L6_X5_Y2_Z-1_MRS was VT, but VT is off on the project, turning off on texture.
+Texture T_DreamLiveLife_HLODLayer_Instanced_L6_X5_Y2_Z-1_EmissiveColor was VT, but VT is off on the project, turning off on texture.
+Building static mesh SM_DreamLiveLife_HLODLayer_Instanced_L6_X5_Y2_Z-1 (Required Memory Estimate: 0.060108 MB)...
+Built static mesh [0.00s] /Game/__ExternalActors__/DreamLiveLife/6/HQ/WUR4MDH8LUXXBD8XCP4SII.SM_DreamLiveLife_HLODLayer_Instanced_L6_X5_Y2_Z-1
+HLOD actor DreamLiveLife_HLODLayer_Merged/DreamLiveLife_HLODLayer_Instanced_L6_X5_Y2_Z-1 was modified, saving...
+[7 / 8] Building HLOD actor DreamLiveLife_HLODLayer_Instanced/DreamLiveLife_RuntimePartitionLHGrid_0_L7_X1_Y2_Z-1...
+Missing cached shadermap for M_Mountain in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 361d021880003e2caa2ed9856fc52d5c6c12690e), compiling. 
+ShaderCompileWorker terminated unexpectedly, return code -1073741819! Falling back to directly compiling which will be very slow.  Thread 3.
+SCW 3 Queued Jobs, Unknown number of processed jobs!
+Job 0 [Single] Failed: M_Mountain_36ac1a883add9db2/Default/FInstancedStaticMeshVertexFactory/FPathTracingMaterialCHS/0:/Engine/Private/PathTracing/PathTracingMaterialHitShader.usf|closesthit=PathTracingMaterialCHS VF 'FInstancedStaticMeshVertexFactory' Type 'FPathTracingMaterialCHS' '/Engine/Private/PathTracing/PathTracingMaterialHitShader.usf' Entry 'closesthit=PathTracingMaterialCHS' Permutation 0 
+Job 1 [Single] Failed: M_Mountain_36ac1a883add9db2/Default/FInstancedStaticMeshVertexFactory/TBasePassVSFNoLightMapPolicy/0:/Engine/Private/BasePassVertexShader.usf|Main VF 'FInstancedStaticMeshVertexFactory' Type 'TBasePassVSFNoLightMapPolicy' '/Engine/Private/BasePassVertexShader.usf' Entry 'Main' Permutation 0 
+Job 2 [Single] Failed: M_Mountain_36ac1a883add9db2/Default/FLocalVertexFactory/FDebugViewModePS/0:/Engine/Private/DebugViewModePixelShader.usf|Main VF 'FLocalVertexFactory' Type 'FDebugViewModePS' '/Engine/Private/DebugViewModePixelShader.usf' Entry 'Main' Permutation 0 
+Retry shader compiling through workers.
+Blocking on texture streaming: 109.3 ms (13 still in flight)
+Blocking on texture streaming: 107.9 ms (5 still in flight)
+Blocking on texture streaming: 60.5 ms (0 still in flight)
+HLOD actor DreamLiveLife_HLODLayer_Instanced/DreamLiveLife_RuntimePartitionLHGrid_0_L7_X1_Y2_Z-1 was modified, saving...
+[8 / 8] Building HLOD actor DreamLiveLife_HLODLayer_Merged/DreamLiveLife_HLODLayer_Instanced_L6_X1_Y2_Z-1...
+C:/Users/james/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+Freeing 33554432 bytes (32.0 MiB) from backup pool to handle out of memory.
+MemoryStats:
+	AvailablePhysical 11339640832 (10.56 GiB)
+	 AvailableVirtual 11959451648 (11.14 GiB)
+	     UsedPhysical 35230982144 (32.81 GiB)
+	 PeakUsedPhysical 58879860736 (54.84 GiB)
+	      UsedVirtual 154547089408 (143.93 GiB)
+	  PeakUsedVirtual 171886657536 (160.08 GiB)
+Allocator Stats for Mimalloc: (not implemented)
+
+
+Script Stack (0 frames) :
+
+appError called: Fatal error: [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Private\GenericPlatform\GenericPlatformMemory.cpp] [Line: 263] 
+Ran out of memory allocating 17301169860 (16499.7 MiB) bytes with alignment 4. Last error msg: The paging file is too small for this operation to complete..
+
+
+
+Windows GetLastError: The handle is invalid. (6)
