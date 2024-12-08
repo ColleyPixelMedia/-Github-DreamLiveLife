@@ -1,0 +1,7 @@
+[1207/214641.709:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[1207/214643.603:ERROR:backend_impl.cc(1041)] Critical error found -8
+[1207/214643.946:WARNING:storage_block-inl.h(146)] Failed data load.
+[1207/214842.199:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1207/215310.838:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 1 time(s)
+[1207/215310.973:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[1207/215311.249:WARNING:gpu_process_host.cc(1016)] Reinitialized the GPU process after a crash. The reported initialization time was 232 ms
