@@ -1,0 +1,476 @@
+[+] Containers:
+ |- [+] Container: /Game/UkIslandMap
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:0CF800034BEED6AC9C102D9162DE7A9C NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_74563C652790C54002_1508372755 Label:DirectionalLight SpatiallyLoaded:false EditorBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:0ECF34D84C1AD57117E86490C2B277FA NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_CRXEWCMAV3R5MPDEGN5ILSMAH_2040_3_1_0 Label:LandscapeStreamingProxy_3_1_0 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=1122000.000 Y=-1122000.000 Z=-100.000), Max=(X=2244000.000 Y=0.000 Z=100.000) RuntimeBounds:IsValid=true, Min=(X=1122000.000 Y=-1122000.000 Z=-100.000), Max=(X=2244000.000 Y=0.000 Z=100.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:1408F2C447C7554DF4C88D9BDB64B759 NativeClass:/Script/PCG.PCGVolume Name:PCGVolume_UAID_74563C652790EF4202_1104787262 Label:PCG_Forest_Mountain_Leading_Up3 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-1710865.501 Y=931514.921 Z=24330.000), Max=(X=-1388854.499 Y=1259943.079 Z=44330.000) RuntimeBounds:IsValid=true, Min=(X=-1710865.501 Y=931514.921 Z=24330.000), Max=(X=-1388854.499 Y=1259943.079 Z=44330.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Pcg_Mountains FolderGuid:974C92044281C6C825926BBE176D7540
+ |   |   |- Guid:215760954CB447951D32189A9DDA0AC8 NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_74563C652790C54002_1448874752 Label:SkyAtmosphere SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=-128.000 Y=-80000.000 Z=-80000.000), Max=(X=240000.000 Y=80000.000 Z=80000.000) RuntimeBounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:222FEEF149A3AC83908D4A9061A873F0 NativeClass:/Script/PCG.PCGVolume Name:PCGVolume_UAID_74563C652790EE4202_2039240085 Label:PCG_Forest_Mountain_Leading_Up2 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-1468509.481 Y=1117166.665 Z=24330.000), Max=(X=-1021210.519 Y=1269559.273 Z=44330.000) RuntimeBounds:IsValid=true, Min=(X=-1468509.481 Y=1117166.665 Z=24330.000), Max=(X=-1021210.519 Y=1269559.273 Z=44330.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Pcg_Mountains FolderGuid:974C92044281C6C825926BBE176D7540
+ |   |   |- Guid:301228C6453ED4A96D82E68FAF5F2E28 NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_CRXEWCMAV3R5MPDEGN5ILSMAH_2040_1_1_0 Label:LandscapeStreamingProxy_1_1_0 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-1122000.000 Y=-1122000.000 Z=-100.000), Max=(X=0.000 Y=0.000 Z=25699.219) RuntimeBounds:IsValid=true, Min=(X=-1122000.000 Y=-1122000.000 Z=-100.000), Max=(X=0.000 Y=0.000 Z=25699.219) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:36C7315B48C043449A3F0E9C84CBBB52 NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_CRXEWCMAV3R5MPDEGN5ILSMAH_2040_0_1_0 Label:LandscapeStreamingProxy_0_1_0 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-2244000.000 Y=-1122000.000 Z=-100.000), Max=(X=-1122000.000 Y=0.000 Z=25699.219) RuntimeBounds:IsValid=true, Min=(X=-2244000.000 Y=-1122000.000 Z=-100.000), Max=(X=-1122000.000 Y=0.000 Z=25699.219) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:51E3BEA34B8ADA29BB0F3FAB6DFBCDB7 NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_CRXEWCMAV3R5MPDEGN5ILSMAH_2040_3_3_0 Label:LandscapeStreamingProxy_3_3_0 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=1122000.000 Y=1122000.000 Z=-100.000), Max=(X=2244000.000 Y=2244000.000 Z=100.000) RuntimeBounds:IsValid=true, Min=(X=1122000.000 Y=1122000.000 Z=-100.000), Max=(X=2244000.000 Y=2244000.000 Z=100.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:53673D59434FB373055D22B41BB9EFA5 NativeClass:/Script/PCG.PCGVolume Name:PCGVolume_UAID_74563C652790F84102_1579961803 Label:PCG_Forest_Mountain_Leading_Up SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-1089813.991 Y=853913.595 Z=24330.000), Max=(X=-619986.009 Y=1317324.405 Z=44330.000) RuntimeBounds:IsValid=true, Min=(X=-1089813.991 Y=853913.595 Z=24330.000), Max=(X=-619986.009 Y=1317324.405 Z=44330.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Pcg_Mountains FolderGuid:974C92044281C6C825926BBE176D7540
+ |   |   |- Guid:551D394942E6084C1439B2859E80ED9E NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_CRXEWCMAV3R5MPDEGN5ILSMAH_2040_2_2_0 Label:LandscapeStreamingProxy_2_2_0 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=-100.000), Max=(X=1122000.000 Y=1122000.000 Z=100.000) RuntimeBounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=-100.000), Max=(X=1122000.000 Y=1122000.000 Z=100.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:64222F044E40AA233FF22685808A5984 NativeClass:/Script/PCG.PCGVolume Name:PCGVolume_UAID_74563C652790EF4202_1878027263 Label:PCG_Forest_Mountain6 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-784605.859 Y=872050.192 Z=25311.565), Max=(X=-321223.488 Y=1335432.562 Z=225311.565) RuntimeBounds:IsValid=true, Min=(X=-784605.859 Y=872050.192 Z=25311.565), Max=(X=-321223.488 Y=1335432.562 Z=225311.565) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Pcg_Mountains FolderGuid:974C92044281C6C825926BBE176D7540
+ |   |   |- Guid:7284146942BD4788CBBD2FB587E29857 NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_CRXEWCMAV3R5MPDEGN5ILSMAH_2040_3_0_0 Label:LandscapeStreamingProxy_3_0_0 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=1122000.000 Y=-2244000.000 Z=-100.000), Max=(X=2244000.000 Y=-1122000.000 Z=100.000) RuntimeBounds:IsValid=true, Min=(X=1122000.000 Y=-2244000.000 Z=-100.000), Max=(X=2244000.000 Y=-1122000.000 Z=100.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:7434601E43A7EC570330ECA240394231 NativeClass:/Script/PCG.PCGVolume Name:PCGVolume_UAID_74563C652790014102_1657369351 Label:PCG_Forest_trees SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-1746840.000 Y=-1965400.012 Z=2049.995), Max=(X=-146840.000 Y=1834600.012 Z=322050.005) RuntimeBounds:IsValid=true, Min=(X=-1746840.000 Y=-1965400.012 Z=2049.995), Max=(X=-146840.000 Y=1834600.012 Z=322050.005) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:PCG Forrest Trees FolderGuid:A720D1CB40B168B8AC4013983B1A01E9
+ |   |   |- Guid:777940EF4F9878E8175DE88CBC5D05C1 NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_CRXEWCMAV3R5MPDEGN5ILSMAH_2040_2_0_0 Label:LandscapeStreamingProxy_2_0_0 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=0.000 Y=-2244000.000 Z=-100.000), Max=(X=1122000.000 Y=-1122000.000 Z=100.000) RuntimeBounds:IsValid=true, Min=(X=0.000 Y=-2244000.000 Z=-100.000), Max=(X=1122000.000 Y=-1122000.000 Z=100.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:7809C78E4A3F588580099487EB31520A NativeClass:/Script/PCG.PCGWorldActor Name:PCGWorldActor_UAID_74563C652790FE4002_1936893784 Label:PCGWorldActor SpatiallyLoaded:false EditorBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:7B8F574A4144248A6B12F390EB00689E NativeClass:/Script/PCG.PCGVolume Name:PCGVolume_UAID_74563C6527902E4302_2086553343 Label:PCG_Forest_stones4 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-1762830.000 Y=-1443578.130 Z=25538.942), Max=(X=-162830.000 Y=-243073.779 Z=225539.000) RuntimeBounds:IsValid=true, Min=(X=-1762830.000 Y=-1443578.130 Z=25538.942), Max=(X=-162830.000 Y=-243073.779 Z=225539.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:PCG Forrest Stones FolderGuid:F99ADFF14E7C078D4265CEB64C1E2D1E
+ |   |   |- Guid:834D5791472186DF8E0D20B802687DF3 NativeClass:/Script/Landscape.Landscape Name:Landscape_UAID_74563C652790004102_1948590136 Label:Landscape SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=-2244000.000 Y=-2244000.000 Z=0.000), Max=(X=-2244000.000 Y=-2244000.000 Z=0.000) RuntimeBounds:IsValid=true, Min=(X=-2244000.000 Y=-2244000.000 Z=0.000), Max=(X=-2244000.000 Y=-2244000.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:86A7D7144F56A4ABC7678D8C11A7F845 NativeClass:/Script/PCG.PCGVolume Name:PCGVolume_UAID_74563C652790EE4202_1527246083 Label:PCG_Forest_Mountain4 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-1883904.675 Y=1255257.503 Z=25311.565), Max=(X=-875531.371 Y=1664161.380 Z=225311.565) RuntimeBounds:IsValid=true, Min=(X=-1883904.675 Y=1255257.503 Z=25311.565), Max=(X=-875531.371 Y=1664161.380 Z=225311.565) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Pcg_Mountains FolderGuid:974C92044281C6C825926BBE176D7540
+ |   |   |- Guid:880958A94FA7962B3F3B6DA1D8158CAF NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_CRXEWCMAV3R5MPDEGN5ILSMAH_2040_0_0_0 Label:LandscapeStreamingProxy_0_0_0 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-2244000.000 Y=-2244000.000 Z=-100.000), Max=(X=-1122000.000 Y=-1122000.000 Z=25699.219) RuntimeBounds:IsValid=true, Min=(X=-2244000.000 Y=-2244000.000 Z=-100.000), Max=(X=-1122000.000 Y=-1122000.000 Z=25699.219) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:8BE1AC0B40D3F6531AE15AA89E302516 NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_CRXEWCMAV3R5MPDEGN5ILSMAH_2040_1_3_0 Label:LandscapeStreamingProxy_1_3_0 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-1122000.000 Y=1122000.000 Z=-100.000), Max=(X=0.000 Y=2244000.000 Z=25699.219) RuntimeBounds:IsValid=true, Min=(X=-1122000.000 Y=1122000.000 Z=-100.000), Max=(X=0.000 Y=2244000.000 Z=25699.219) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:9310FA384F6A9CC63370828A499EE1C8 NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_CRXEWCMAV3R5MPDEGN5ILSMAH_2040_3_2_0 Label:LandscapeStreamingProxy_3_2_0 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=1122000.000 Y=0.000 Z=-100.000), Max=(X=2244000.000 Y=1122000.000 Z=100.000) RuntimeBounds:IsValid=true, Min=(X=1122000.000 Y=0.000 Z=-100.000), Max=(X=2244000.000 Y=1122000.000 Z=100.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:956A1F8B401498881C0A56903FEF4DBE NativeClass:/Script/PCG.PCGVolume Name:PCGVolume_UAID_74563C652790EF4202_2038976264 Label:PCG_Forest_Mountain7 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-904207.470 Y=1187888.581 Z=25311.565), Max=(X=-788361.877 Y=1303734.174 Z=225311.565) RuntimeBounds:IsValid=true, Min=(X=-904207.470 Y=1187888.581 Z=25311.565), Max=(X=-788361.877 Y=1303734.174 Z=225311.565) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Pcg_Mountains FolderGuid:974C92044281C6C825926BBE176D7540
+ |   |   |- Guid:A70D628C4A3021A78F3B66A3BA77B6A0 NativeClass:/Script/PCG.PCGVolume Name:PCGVolume_UAID_74563C652790F84102_1381478801 Label:PCG_Forest_Mountain2 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-712831.084 Y=1086664.966 Z=25311.565), Max=(X=-149298.263 Y=1650197.788 Z=225311.565) RuntimeBounds:IsValid=true, Min=(X=-712831.084 Y=1086664.966 Z=25311.565), Max=(X=-149298.263 Y=1650197.788 Z=225311.565) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Pcg_Mountains FolderGuid:974C92044281C6C825926BBE176D7540
+ |   |   |- Guid:A905088C45AB648B75DDF4A9CAD746D3 NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_CRXEWCMAV3R5MPDEGN5ILSMAH_2040_1_0_0 Label:LandscapeStreamingProxy_1_0_0 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-1122000.000 Y=-2244000.000 Z=-100.000), Max=(X=0.000 Y=-1122000.000 Z=25699.219) RuntimeBounds:IsValid=true, Min=(X=-1122000.000 Y=-2244000.000 Z=-100.000), Max=(X=0.000 Y=-1122000.000 Z=25699.219) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:AFEC94934566340707A298B779A83A06 NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_CRXEWCMAV3R5MPDEGN5ILSMAH_2040_0_3_0 Label:LandscapeStreamingProxy_0_3_0 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-2244000.000 Y=1122000.000 Z=-100.000), Max=(X=-1122000.000 Y=2244000.000 Z=25699.219) RuntimeBounds:IsValid=true, Min=(X=-2244000.000 Y=1122000.000 Z=-100.000), Max=(X=-1122000.000 Y=2244000.000 Z=25699.219) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:B0A238314A2456A445174293D09C879D NativeClass:/Script/PCG.PCGVolume Name:PCGVolume_UAID_74563C652790EE4202_1742273084 Label:PCG_Forest_Mountain5 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-1816587.259 Y=1032295.950 Z=25311.565), Max=(X=-1470542.087 Y=1390666.804 Z=225311.565) RuntimeBounds:IsValid=true, Min=(X=-1816587.259 Y=1032295.950 Z=25311.565), Max=(X=-1470542.087 Y=1390666.804 Z=225311.565) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Pcg_Mountains FolderGuid:974C92044281C6C825926BBE176D7540
+ |   |   |- Guid:BBB24EE8457551365B9D84BF8D9317D4 NativeClass:/Script/PCG.PCGVolume Name:PCGVolume_UAID_74563C652790EF4102_1192142199 Label:PCG_Forest_Mountain SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-1049971.084 Y=1182384.967 Z=25311.565), Max=(X=-486438.263 Y=1745917.787 Z=225311.565) RuntimeBounds:IsValid=true, Min=(X=-1049971.084 Y=1182384.967 Z=25311.565), Max=(X=-486438.263 Y=1745917.787 Z=225311.565) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Pcg_Mountains FolderGuid:974C92044281C6C825926BBE176D7540
+ |   |   |- Guid:D862994A4DCCDDD6B947F6AB3480A7FD NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:false EditorBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:true
+ |   |   |- Guid:D9A0EF3049E9473E0E7AC1AAC207AE68 BaseClass:/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C NativeClass:/Script/Engine.Character Name:BP_ThirdPersonCharacter_C_UAID_74563C652790454302_2121914391 Label:BP_ThirdPersonCharacter SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-1000260.000 Y=995020.000 Z=24688.492), Max=(X=-998240.000 Y=997040.000 Z=26708.492) RuntimeBounds:IsValid=true, Min=(X=-998885.000 Y=995995.000 Z=25599.070), Max=(X=-998812.408 Y=996065.000 Z=25780.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:E958FA7E4A4C0C231D4AB29171C10C66 NativeClass:/Script/PCG.PCGVolume Name:PCGVolume_UAID_74563C652790F84102_1429580802 Label:PCG_Forest_Mountain3 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-831209.754 Y=1048336.296 Z=25311.565), Max=(X=-284799.592 Y=1594746.458 Z=225311.565) RuntimeBounds:IsValid=true, Min=(X=-831209.754 Y=1048336.296 Z=25311.565), Max=(X=-284799.592 Y=1594746.458 Z=225311.565) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Pcg_Mountains FolderGuid:974C92044281C6C825926BBE176D7540
+ |   |   |- Guid:EEAFC34C42FEF84BA068B38A2CDC5112 NativeClass:/Script/PCG.PCGVolume Name:PCGVolume_UAID_74563C652790EF4202_2119334265 Label:PCG_Forest_Mountain8 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-1503109.150 Y=1181735.739 Z=25311.565), Max=(X=-1371859.035 Y=1313087.912 Z=225311.565) RuntimeBounds:IsValid=true, Min=(X=-1503109.150 Y=1181735.739 Z=25311.565), Max=(X=-1371859.035 Y=1313087.912 Z=225311.565) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Pcg_Mountains FolderGuid:974C92044281C6C825926BBE176D7540
+ |   |   |- Guid:F14D8EAA4EDF88635C5F47A4010AE331 NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_CRXEWCMAV3R5MPDEGN5ILSMAH_2040_2_1_0 Label:LandscapeStreamingProxy_2_1_0 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=0.000 Y=-1122000.000 Z=-100.000), Max=(X=1122000.000 Y=0.000 Z=100.000) RuntimeBounds:IsValid=true, Min=(X=0.000 Y=-1122000.000 Z=-100.000), Max=(X=1122000.000 Y=0.000 Z=100.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:F6D0B14442739DAA98D738879DE4A6E2 NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_CRXEWCMAV3R5MPDEGN5ILSMAH_2040_2_3_0 Label:LandscapeStreamingProxy_2_3_0 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=0.000 Y=1122000.000 Z=-100.000), Max=(X=1122000.000 Y=2244000.000 Z=100.000) RuntimeBounds:IsValid=true, Min=(X=0.000 Y=1122000.000 Z=-100.000), Max=(X=1122000.000 Y=2244000.000 Z=100.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:F70864D74146F9E39468929E5696EB76 NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_CRXEWCMAV3R5MPDEGN5ILSMAH_2040_1_2_0 Label:LandscapeStreamingProxy_1_2_0 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-1122000.000 Y=0.000 Z=-100.000), Max=(X=0.000 Y=1122000.000 Z=25699.219) RuntimeBounds:IsValid=true, Min=(X=-1122000.000 Y=0.000 Z=-100.000), Max=(X=0.000 Y=1122000.000 Z=25699.219) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:F809CF4B4B694C3706F18D9A8655C8FE NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_CRXEWCMAV3R5MPDEGN5ILSMAH_2040_0_2_0 Label:LandscapeStreamingProxy_0_2_0 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-2244000.000 Y=0.000 Z=-100.000), Max=(X=-1122000.000 Y=1122000.000 Z=25699.219) RuntimeBounds:IsValid=true, Min=(X=-2244000.000 Y=0.000 Z=-100.000), Max=(X=-1122000.000 Y=1122000.000 Z=25699.219) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:0CF800034BEED6AC9C102D9162DE7A9C NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_74563C652790C54002_1508372755 Label:DirectionalLight SpatiallyLoaded:false EditorBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:0ECF34D84C1AD57117E86490C2B277FA NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_CRXEWCMAV3R5MPDEGN5ILSMAH_2040_3_1_0 Label:LandscapeStreamingProxy_3_1_0 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=1122000.000 Y=-1122000.000 Z=-100.000), Max=(X=2244000.000 Y=0.000 Z=100.000) RuntimeBounds:IsValid=true, Min=(X=1122000.000 Y=-1122000.000 Z=-100.000), Max=(X=2244000.000 Y=0.000 Z=100.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:1408F2C447C7554DF4C88D9BDB64B759 NativeClass:/Script/PCG.PCGVolume Name:PCGVolume_UAID_74563C652790EF4202_1104787262 Label:PCG_Forest_Mountain_Leading_Up3 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-1710865.501 Y=931514.921 Z=24330.000), Max=(X=-1388854.499 Y=1259943.079 Z=44330.000) RuntimeBounds:IsValid=true, Min=(X=-1710865.501 Y=931514.921 Z=24330.000), Max=(X=-1388854.499 Y=1259943.079 Z=44330.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Pcg_Mountains FolderGuid:974C92044281C6C825926BBE176D7540
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:215760954CB447951D32189A9DDA0AC8 NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_74563C652790C54002_1448874752 Label:SkyAtmosphere SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=-128.000 Y=-80000.000 Z=-80000.000), Max=(X=240000.000 Y=80000.000 Z=80000.000) RuntimeBounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:222FEEF149A3AC83908D4A9061A873F0 NativeClass:/Script/PCG.PCGVolume Name:PCGVolume_UAID_74563C652790EE4202_2039240085 Label:PCG_Forest_Mountain_Leading_Up2 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-1468509.481 Y=1117166.665 Z=24330.000), Max=(X=-1021210.519 Y=1269559.273 Z=44330.000) RuntimeBounds:IsValid=true, Min=(X=-1468509.481 Y=1117166.665 Z=24330.000), Max=(X=-1021210.519 Y=1269559.273 Z=44330.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Pcg_Mountains FolderGuid:974C92044281C6C825926BBE176D7540
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:301228C6453ED4A96D82E68FAF5F2E28 NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_CRXEWCMAV3R5MPDEGN5ILSMAH_2040_1_1_0 Label:LandscapeStreamingProxy_1_1_0 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-1122000.000 Y=-1122000.000 Z=-100.000), Max=(X=0.000 Y=0.000 Z=25699.219) RuntimeBounds:IsValid=true, Min=(X=-1122000.000 Y=-1122000.000 Z=-100.000), Max=(X=0.000 Y=0.000 Z=25699.219) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:36C7315B48C043449A3F0E9C84CBBB52 NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_CRXEWCMAV3R5MPDEGN5ILSMAH_2040_0_1_0 Label:LandscapeStreamingProxy_0_1_0 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-2244000.000 Y=-1122000.000 Z=-100.000), Max=(X=-1122000.000 Y=0.000 Z=25699.219) RuntimeBounds:IsValid=true, Min=(X=-2244000.000 Y=-1122000.000 Z=-100.000), Max=(X=-1122000.000 Y=0.000 Z=25699.219) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:51E3BEA34B8ADA29BB0F3FAB6DFBCDB7 NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_CRXEWCMAV3R5MPDEGN5ILSMAH_2040_3_3_0 Label:LandscapeStreamingProxy_3_3_0 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=1122000.000 Y=1122000.000 Z=-100.000), Max=(X=2244000.000 Y=2244000.000 Z=100.000) RuntimeBounds:IsValid=true, Min=(X=1122000.000 Y=1122000.000 Z=-100.000), Max=(X=2244000.000 Y=2244000.000 Z=100.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:53673D59434FB373055D22B41BB9EFA5 NativeClass:/Script/PCG.PCGVolume Name:PCGVolume_UAID_74563C652790F84102_1579961803 Label:PCG_Forest_Mountain_Leading_Up SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-1089813.991 Y=853913.595 Z=24330.000), Max=(X=-619986.009 Y=1317324.405 Z=44330.000) RuntimeBounds:IsValid=true, Min=(X=-1089813.991 Y=853913.595 Z=24330.000), Max=(X=-619986.009 Y=1317324.405 Z=44330.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Pcg_Mountains FolderGuid:974C92044281C6C825926BBE176D7540
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:551D394942E6084C1439B2859E80ED9E NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_CRXEWCMAV3R5MPDEGN5ILSMAH_2040_2_2_0 Label:LandscapeStreamingProxy_2_2_0 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=-100.000), Max=(X=1122000.000 Y=1122000.000 Z=100.000) RuntimeBounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=-100.000), Max=(X=1122000.000 Y=1122000.000 Z=100.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:64222F044E40AA233FF22685808A5984 NativeClass:/Script/PCG.PCGVolume Name:PCGVolume_UAID_74563C652790EF4202_1878027263 Label:PCG_Forest_Mountain6 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-784605.859 Y=872050.192 Z=25311.565), Max=(X=-321223.488 Y=1335432.562 Z=225311.565) RuntimeBounds:IsValid=true, Min=(X=-784605.859 Y=872050.192 Z=25311.565), Max=(X=-321223.488 Y=1335432.562 Z=225311.565) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Pcg_Mountains FolderGuid:974C92044281C6C825926BBE176D7540
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:7284146942BD4788CBBD2FB587E29857 NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_CRXEWCMAV3R5MPDEGN5ILSMAH_2040_3_0_0 Label:LandscapeStreamingProxy_3_0_0 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=1122000.000 Y=-2244000.000 Z=-100.000), Max=(X=2244000.000 Y=-1122000.000 Z=100.000) RuntimeBounds:IsValid=true, Min=(X=1122000.000 Y=-2244000.000 Z=-100.000), Max=(X=2244000.000 Y=-1122000.000 Z=100.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:7434601E43A7EC570330ECA240394231 NativeClass:/Script/PCG.PCGVolume Name:PCGVolume_UAID_74563C652790014102_1657369351 Label:PCG_Forest_trees SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-1746840.000 Y=-1965400.012 Z=2049.995), Max=(X=-146840.000 Y=1834600.012 Z=322050.005) RuntimeBounds:IsValid=true, Min=(X=-1746840.000 Y=-1965400.012 Z=2049.995), Max=(X=-146840.000 Y=1834600.012 Z=322050.005) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:PCG Forrest Trees FolderGuid:A720D1CB40B168B8AC4013983B1A01E9
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:777940EF4F9878E8175DE88CBC5D05C1 NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_CRXEWCMAV3R5MPDEGN5ILSMAH_2040_2_0_0 Label:LandscapeStreamingProxy_2_0_0 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=0.000 Y=-2244000.000 Z=-100.000), Max=(X=1122000.000 Y=-1122000.000 Z=100.000) RuntimeBounds:IsValid=true, Min=(X=0.000 Y=-2244000.000 Z=-100.000), Max=(X=1122000.000 Y=-1122000.000 Z=100.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:7809C78E4A3F588580099487EB31520A NativeClass:/Script/PCG.PCGWorldActor Name:PCGWorldActor_UAID_74563C652790FE4002_1936893784 Label:PCGWorldActor SpatiallyLoaded:false EditorBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:7B8F574A4144248A6B12F390EB00689E NativeClass:/Script/PCG.PCGVolume Name:PCGVolume_UAID_74563C6527902E4302_2086553343 Label:PCG_Forest_stones4 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-1762830.000 Y=-1443578.130 Z=25538.942), Max=(X=-162830.000 Y=-243073.779 Z=225539.000) RuntimeBounds:IsValid=true, Min=(X=-1762830.000 Y=-1443578.130 Z=25538.942), Max=(X=-162830.000 Y=-243073.779 Z=225539.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:PCG Forrest Stones FolderGuid:F99ADFF14E7C078D4265CEB64C1E2D1E
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:834D5791472186DF8E0D20B802687DF3 NativeClass:/Script/Landscape.Landscape Name:Landscape_UAID_74563C652790004102_1948590136 Label:Landscape SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=-2244000.000 Y=-2244000.000 Z=0.000), Max=(X=-2244000.000 Y=-2244000.000 Z=0.000) RuntimeBounds:IsValid=true, Min=(X=-2244000.000 Y=-2244000.000 Z=0.000), Max=(X=-2244000.000 Y=-2244000.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:86A7D7144F56A4ABC7678D8C11A7F845 NativeClass:/Script/PCG.PCGVolume Name:PCGVolume_UAID_74563C652790EE4202_1527246083 Label:PCG_Forest_Mountain4 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-1883904.675 Y=1255257.503 Z=25311.565), Max=(X=-875531.371 Y=1664161.380 Z=225311.565) RuntimeBounds:IsValid=true, Min=(X=-1883904.675 Y=1255257.503 Z=25311.565), Max=(X=-875531.371 Y=1664161.380 Z=225311.565) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Pcg_Mountains FolderGuid:974C92044281C6C825926BBE176D7540
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:880958A94FA7962B3F3B6DA1D8158CAF NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_CRXEWCMAV3R5MPDEGN5ILSMAH_2040_0_0_0 Label:LandscapeStreamingProxy_0_0_0 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-2244000.000 Y=-2244000.000 Z=-100.000), Max=(X=-1122000.000 Y=-1122000.000 Z=25699.219) RuntimeBounds:IsValid=true, Min=(X=-2244000.000 Y=-2244000.000 Z=-100.000), Max=(X=-1122000.000 Y=-1122000.000 Z=25699.219) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:8BE1AC0B40D3F6531AE15AA89E302516 NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_CRXEWCMAV3R5MPDEGN5ILSMAH_2040_1_3_0 Label:LandscapeStreamingProxy_1_3_0 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-1122000.000 Y=1122000.000 Z=-100.000), Max=(X=0.000 Y=2244000.000 Z=25699.219) RuntimeBounds:IsValid=true, Min=(X=-1122000.000 Y=1122000.000 Z=-100.000), Max=(X=0.000 Y=2244000.000 Z=25699.219) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:9310FA384F6A9CC63370828A499EE1C8 NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_CRXEWCMAV3R5MPDEGN5ILSMAH_2040_3_2_0 Label:LandscapeStreamingProxy_3_2_0 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=1122000.000 Y=0.000 Z=-100.000), Max=(X=2244000.000 Y=1122000.000 Z=100.000) RuntimeBounds:IsValid=true, Min=(X=1122000.000 Y=0.000 Z=-100.000), Max=(X=2244000.000 Y=1122000.000 Z=100.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:956A1F8B401498881C0A56903FEF4DBE NativeClass:/Script/PCG.PCGVolume Name:PCGVolume_UAID_74563C652790EF4202_2038976264 Label:PCG_Forest_Mountain7 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-904207.470 Y=1187888.581 Z=25311.565), Max=(X=-788361.877 Y=1303734.174 Z=225311.565) RuntimeBounds:IsValid=true, Min=(X=-904207.470 Y=1187888.581 Z=25311.565), Max=(X=-788361.877 Y=1303734.174 Z=225311.565) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Pcg_Mountains FolderGuid:974C92044281C6C825926BBE176D7540
+ |   |   |- [+] [ 22]
+ |   |   |   |- Guid:A70D628C4A3021A78F3B66A3BA77B6A0 NativeClass:/Script/PCG.PCGVolume Name:PCGVolume_UAID_74563C652790F84102_1381478801 Label:PCG_Forest_Mountain2 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-712831.084 Y=1086664.966 Z=25311.565), Max=(X=-149298.263 Y=1650197.788 Z=225311.565) RuntimeBounds:IsValid=true, Min=(X=-712831.084 Y=1086664.966 Z=25311.565), Max=(X=-149298.263 Y=1650197.788 Z=225311.565) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Pcg_Mountains FolderGuid:974C92044281C6C825926BBE176D7540
+ |   |   |- [+] [ 23]
+ |   |   |   |- Guid:A905088C45AB648B75DDF4A9CAD746D3 NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_CRXEWCMAV3R5MPDEGN5ILSMAH_2040_1_0_0 Label:LandscapeStreamingProxy_1_0_0 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-1122000.000 Y=-2244000.000 Z=-100.000), Max=(X=0.000 Y=-1122000.000 Z=25699.219) RuntimeBounds:IsValid=true, Min=(X=-1122000.000 Y=-2244000.000 Z=-100.000), Max=(X=0.000 Y=-1122000.000 Z=25699.219) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [ 24]
+ |   |   |   |- Guid:AFEC94934566340707A298B779A83A06 NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_CRXEWCMAV3R5MPDEGN5ILSMAH_2040_0_3_0 Label:LandscapeStreamingProxy_0_3_0 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-2244000.000 Y=1122000.000 Z=-100.000), Max=(X=-1122000.000 Y=2244000.000 Z=25699.219) RuntimeBounds:IsValid=true, Min=(X=-2244000.000 Y=1122000.000 Z=-100.000), Max=(X=-1122000.000 Y=2244000.000 Z=25699.219) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [ 25]
+ |   |   |   |- Guid:B0A238314A2456A445174293D09C879D NativeClass:/Script/PCG.PCGVolume Name:PCGVolume_UAID_74563C652790EE4202_1742273084 Label:PCG_Forest_Mountain5 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-1816587.259 Y=1032295.950 Z=25311.565), Max=(X=-1470542.087 Y=1390666.804 Z=225311.565) RuntimeBounds:IsValid=true, Min=(X=-1816587.259 Y=1032295.950 Z=25311.565), Max=(X=-1470542.087 Y=1390666.804 Z=225311.565) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Pcg_Mountains FolderGuid:974C92044281C6C825926BBE176D7540
+ |   |   |- [+] [ 26]
+ |   |   |   |- Guid:BBB24EE8457551365B9D84BF8D9317D4 NativeClass:/Script/PCG.PCGVolume Name:PCGVolume_UAID_74563C652790EF4102_1192142199 Label:PCG_Forest_Mountain SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-1049971.084 Y=1182384.967 Z=25311.565), Max=(X=-486438.263 Y=1745917.787 Z=225311.565) RuntimeBounds:IsValid=true, Min=(X=-1049971.084 Y=1182384.967 Z=25311.565), Max=(X=-486438.263 Y=1745917.787 Z=225311.565) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Pcg_Mountains FolderGuid:974C92044281C6C825926BBE176D7540
+ |   |   |- [+] [ 27]
+ |   |   |   |- Guid:D862994A4DCCDDD6B947F6AB3480A7FD NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:false EditorBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:true
+ |   |   |- [+] [ 28]
+ |   |   |   |- Guid:D9A0EF3049E9473E0E7AC1AAC207AE68 BaseClass:/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C NativeClass:/Script/Engine.Character Name:BP_ThirdPersonCharacter_C_UAID_74563C652790454302_2121914391 Label:BP_ThirdPersonCharacter SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-1000260.000 Y=995020.000 Z=24688.492), Max=(X=-998240.000 Y=997040.000 Z=26708.492) RuntimeBounds:IsValid=true, Min=(X=-998885.000 Y=995995.000 Z=25599.070), Max=(X=-998812.408 Y=996065.000 Z=25780.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [ 29]
+ |   |   |   |- Guid:E958FA7E4A4C0C231D4AB29171C10C66 NativeClass:/Script/PCG.PCGVolume Name:PCGVolume_UAID_74563C652790F84102_1429580802 Label:PCG_Forest_Mountain3 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-831209.754 Y=1048336.296 Z=25311.565), Max=(X=-284799.592 Y=1594746.458 Z=225311.565) RuntimeBounds:IsValid=true, Min=(X=-831209.754 Y=1048336.296 Z=25311.565), Max=(X=-284799.592 Y=1594746.458 Z=225311.565) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Pcg_Mountains FolderGuid:974C92044281C6C825926BBE176D7540
+ |   |   |- [+] [ 30]
+ |   |   |   |- Guid:EEAFC34C42FEF84BA068B38A2CDC5112 NativeClass:/Script/PCG.PCGVolume Name:PCGVolume_UAID_74563C652790EF4202_2119334265 Label:PCG_Forest_Mountain8 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-1503109.150 Y=1181735.739 Z=25311.565), Max=(X=-1371859.035 Y=1313087.912 Z=225311.565) RuntimeBounds:IsValid=true, Min=(X=-1503109.150 Y=1181735.739 Z=25311.565), Max=(X=-1371859.035 Y=1313087.912 Z=225311.565) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Pcg_Mountains FolderGuid:974C92044281C6C825926BBE176D7540
+ |   |   |- [+] [ 31]
+ |   |   |   |- Guid:F14D8EAA4EDF88635C5F47A4010AE331 NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_CRXEWCMAV3R5MPDEGN5ILSMAH_2040_2_1_0 Label:LandscapeStreamingProxy_2_1_0 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=0.000 Y=-1122000.000 Z=-100.000), Max=(X=1122000.000 Y=0.000 Z=100.000) RuntimeBounds:IsValid=true, Min=(X=0.000 Y=-1122000.000 Z=-100.000), Max=(X=1122000.000 Y=0.000 Z=100.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [ 32]
+ |   |   |   |- Guid:F6D0B14442739DAA98D738879DE4A6E2 NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_CRXEWCMAV3R5MPDEGN5ILSMAH_2040_2_3_0 Label:LandscapeStreamingProxy_2_3_0 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=0.000 Y=1122000.000 Z=-100.000), Max=(X=1122000.000 Y=2244000.000 Z=100.000) RuntimeBounds:IsValid=true, Min=(X=0.000 Y=1122000.000 Z=-100.000), Max=(X=1122000.000 Y=2244000.000 Z=100.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [ 33]
+ |   |   |   |- Guid:F70864D74146F9E39468929E5696EB76 NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_CRXEWCMAV3R5MPDEGN5ILSMAH_2040_1_2_0 Label:LandscapeStreamingProxy_1_2_0 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-1122000.000 Y=0.000 Z=-100.000), Max=(X=0.000 Y=1122000.000 Z=25699.219) RuntimeBounds:IsValid=true, Min=(X=-1122000.000 Y=0.000 Z=-100.000), Max=(X=0.000 Y=1122000.000 Z=25699.219) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [ 34]
+ |   |   |   |- Guid:F809CF4B4B694C3706F18D9A8655C8FE NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_CRXEWCMAV3R5MPDEGN5ILSMAH_2040_0_2_0 Label:LandscapeStreamingProxy_0_2_0 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-2244000.000 Y=0.000 Z=-100.000), Max=(X=-1122000.000 Y=1122000.000 Z=25699.219) RuntimeBounds:IsValid=true, Min=(X=-2244000.000 Y=0.000 Z=-100.000), Max=(X=-1122000.000 Y=1122000.000 Z=25699.219) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=-2244000.000 Y=-2244000.000 Z=-100.000), Max=(X=2244000.000 Y=2244000.000 Z=322050.005)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/UkIslandMap
+----------------------------------------------------------------------------------------------------------------
+UkIslandMap - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of UkIslandMap Persistent Level
+ |- Always loaded Actor Count: 5 
+ |- Actor Path: /Game/UkIslandMap.UkIslandMap:PersistentLevel.DirectionalLight_UAID_74563C652790C54002_1508372755
+ |- Actor Package: /Game/__ExternalActors__/UkIslandMap/A/0A/ITLNA1NS5B42IQHJGNRGXE
+ |- Actor Path: /Game/UkIslandMap.UkIslandMap:PersistentLevel.Landscape_UAID_74563C652790004102_1948590136
+ |- Actor Package: /Game/__ExternalActors__/UkIslandMap/8/45/GYENBYFEBC5SLGE80XHYK0
+ |- Actor Path: /Game/UkIslandMap.UkIslandMap:PersistentLevel.PCGWorldActor_UAID_74563C652790FE4002_1936893784
+ |- Actor Package: /Game/__ExternalActors__/UkIslandMap/E/AG/L4LW0KK6JXEZZJKTK2AMGB
+ |- Actor Path: /Game/UkIslandMap.UkIslandMap:PersistentLevel.SkyAtmosphere_UAID_74563C652790C54002_1448874752
+ |- Actor Package: /Game/__ExternalActors__/UkIslandMap/6/BA/Y9SJKEVGBOFCQMKEYIWHB1
+ |- Actor Path: /Game/UkIslandMap.UkIslandMap:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/UkIslandMap/A/BO/B8SV3ZD7QEWE828IKRPEP5
+
+----------------------------------------------------------------------------------------------------------------
+UkIslandMap - Runtime Hash Set
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Cell UkIslandMap_MainPartition_L8_X0_Y0 (08ZD6PMVVH1MIQ8OBS453EGOS)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=0.000 Y=0.000 Z=-0.000), Max=(X=1122000.000 Y=1122000.000 Z=0.000)
+ |- Cell Bounds: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=1300992.000 Y=1300992.000 Z=0.000)
+ |- Is 2D: True
+ |- [+] /Game/UkIslandMap.UkIslandMap:PersistentLevel.LandscapeStreamingProxy_CRXEWCMAV3R5MPDEGN5ILSMAH_2040_2_2_0
+ |   |-         Package: /Game/__ExternalActors__/UkIslandMap/B/HP/UJQ6EXMDLUI7GK8REU6IRT
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 551D394942E6084C1439B2859E80ED9E
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell UkIslandMap_MainPartition_L8_X0_Y-1 (0W4FZCDDHRL5MEP2GYVTTDE8Y)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=0.000 Y=-1122000.000 Z=-0.000), Max=(X=1122000.000 Y=0.000 Z=0.000)
+ |- Cell Bounds: IsValid=true, Min=(X=0.000 Y=-1300992.000 Z=0.000), Max=(X=1300992.000 Y=0.000 Z=0.000)
+ |- Is 2D: True
+ |- [+] /Game/UkIslandMap.UkIslandMap:PersistentLevel.LandscapeStreamingProxy_CRXEWCMAV3R5MPDEGN5ILSMAH_2040_2_1_0
+ |   |-         Package: /Game/__ExternalActors__/UkIslandMap/4/O8/0F4U9J77LDAN2A9M11ZZV1
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: F14D8EAA4EDF88635C5F47A4010AE331
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell UkIslandMap_MainPartition_L8_X0_Y-2 (0X2BFUHIYVUW28LQAPPVP8XPA)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=0.000 Y=-2244000.000 Z=-0.000), Max=(X=1122000.000 Y=-1300992.000 Z=0.000)
+ |- Cell Bounds: IsValid=true, Min=(X=0.000 Y=-2601984.000 Z=0.000), Max=(X=1300992.000 Y=-1300992.000 Z=0.000)
+ |- Is 2D: True
+ |- [+] /Game/UkIslandMap.UkIslandMap:PersistentLevel.LandscapeStreamingProxy_CRXEWCMAV3R5MPDEGN5ILSMAH_2040_2_0_0
+ |   |-         Package: /Game/__ExternalActors__/UkIslandMap/7/N2/K18FOSNXP1JE7RSLHGFVKD
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 777940EF4F9878E8175DE88CBC5D05C1
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell UkIslandMap_MainPartition_L8_X-1_Y1 (15HB5B5U7IU982QZEWIRQN8BB)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=-1122000.000 Y=1300992.000 Z=-0.000), Max=(X=0.000 Y=2244000.000 Z=0.000)
+ |- Cell Bounds: IsValid=true, Min=(X=-1300992.000 Y=1300992.000 Z=0.000), Max=(X=0.000 Y=2601984.000 Z=0.000)
+ |- Is 2D: True
+ |- [+] /Game/UkIslandMap.UkIslandMap:PersistentLevel.LandscapeStreamingProxy_CRXEWCMAV3R5MPDEGN5ILSMAH_2040_1_3_0
+ |   |-         Package: /Game/__ExternalActors__/UkIslandMap/4/QU/7UUBJB0OZO7WIXPOC5REB3
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 8BE1AC0B40D3F6531AE15AA89E302516
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell UkIslandMap_MainPartition_L10_X-1_Y-1 (1NCITRRPWJOKJT9WTTYM7BN1N)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=-1746840.000 Y=-1965400.012 Z=0.000), Max=(X=-146840.000 Y=0.000 Z=0.000)
+ |- Cell Bounds: IsValid=true, Min=(X=-5203968.000 Y=-5203968.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |- Is 2D: True
+ |- [+] /Game/UkIslandMap.UkIslandMap:PersistentLevel.PCGVolume_UAID_74563C652790014102_1657369351
+ |   |-         Package: /Game/__ExternalActors__/UkIslandMap/8/31/CFUWJ0WXJKE7859V2WZNSO
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 7434601E43A7EC570330ECA240394231
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell UkIslandMap_MainPartition_L9_X-1_Y-1 (2ZSZ2WBYWVHLFT2XYXN12JAVF)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=-1762830.000 Y=-1443578.130 Z=0.000), Max=(X=-162830.000 Y=-243073.779 Z=0.000)
+ |- Cell Bounds: IsValid=true, Min=(X=-2601984.000 Y=-2601984.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |- Is 2D: True
+ |- [+] /Game/UkIslandMap.UkIslandMap:PersistentLevel.PCGVolume_UAID_74563C6527902E4302_2086553343
+ |   |-         Package: /Game/__ExternalActors__/UkIslandMap/4/E2/GM1TI5XL34Z7EDOA19AP5E
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 7B8F574A4144248A6B12F390EB00689E
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell UkIslandMap_MainPartition_L8_X-2_Y-2 (33XVM8HA51NQUJBYDTX98N93F)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=-2244000.000 Y=-2244000.000 Z=-0.000), Max=(X=-1300992.000 Y=-1300992.000 Z=0.000)
+ |- Cell Bounds: IsValid=true, Min=(X=-2601984.000 Y=-2601984.000 Z=0.000), Max=(X=-1300992.000 Y=-1300992.000 Z=0.000)
+ |- Is 2D: True
+ |- [+] /Game/UkIslandMap.UkIslandMap:PersistentLevel.LandscapeStreamingProxy_CRXEWCMAV3R5MPDEGN5ILSMAH_2040_0_0_0
+ |   |-         Package: /Game/__ExternalActors__/UkIslandMap/6/TN/3FBFRVLVO6916GRTHKTPDR
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 880958A94FA7962B3F3B6DA1D8158CAF
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell UkIslandMap_MainPartition_L7_X-1_Y2 (3NDLIU6KGH7KN20JZVSIEWDAO)
+ |- Actor Count: 2
+ |- Content Bounds: IsValid=true, Min=(X=-650496.000 Y=1300992.000 Z=0.000), Max=(X=-149298.263 Y=1650197.788 Z=0.000)
+ |- Cell Bounds: IsValid=true, Min=(X=-650496.000 Y=1300992.000 Z=0.000), Max=(X=0.000 Y=1951488.000 Z=0.000)
+ |- Is 2D: True
+ |- [+] /Game/UkIslandMap.UkIslandMap:PersistentLevel.PCGVolume_UAID_74563C652790F84102_1381478801
+ |   |-         Package: /Game/__ExternalActors__/UkIslandMap/5/VK/242CQZ28FML0E0WN520YUS
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: A70D628C4A3021A78F3B66A3BA77B6A0
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/UkIslandMap.UkIslandMap:PersistentLevel.PCGVolume_UAID_74563C652790F84102_1429580802
+ |   |-         Package: /Game/__ExternalActors__/UkIslandMap/D/SR/8O3NIO06DOBWHC6G9COXLR
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: E958FA7E4A4C0C231D4AB29171C10C66
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell UkIslandMap_MainPartition_L7_X-1_Y1 (4B85PTQ45ETZ7P593AICWQE9R)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=-650496.000 Y=872050.192 Z=0.000), Max=(X=-321223.488 Y=1300992.000 Z=0.000)
+ |- Cell Bounds: IsValid=true, Min=(X=-650496.000 Y=650496.000 Z=0.000), Max=(X=0.000 Y=1300992.000 Z=0.000)
+ |- Is 2D: True
+ |- [+] /Game/UkIslandMap.UkIslandMap:PersistentLevel.PCGVolume_UAID_74563C652790EF4202_1878027263
+ |   |-         Package: /Game/__ExternalActors__/UkIslandMap/C/LJ/1MMASZHC9T3HJCAU7UCW55
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 64222F044E40AA233FF22685808A5984
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell UkIslandMap_MainPartition_L5_X-6_Y7 (4PF0KK546U8G2G2SJE4DQ0D9T)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=-904207.470 Y=1187888.581 Z=0.000), Max=(X=-813120.000 Y=1300992.000 Z=0.000)
+ |- Cell Bounds: IsValid=true, Min=(X=-975744.000 Y=1138368.000 Z=0.000), Max=(X=-813120.000 Y=1300992.000 Z=0.000)
+ |- Is 2D: True
+ |- [+] /Game/UkIslandMap.UkIslandMap:PersistentLevel.PCGVolume_UAID_74563C652790EF4202_2038976264
+ |   |-         Package: /Game/__ExternalActors__/UkIslandMap/9/GW/A60B4DBVFEO6E484S8GZU7
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 956A1F8B401498881C0A56903FEF4DBE
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell UkIslandMap_MainPartition_L8_X-1_Y0 (554S6F0I957HRD0Y5MF9U44E2)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=-1122000.000 Y=0.000 Z=-0.000), Max=(X=0.000 Y=1122000.000 Z=0.000)
+ |- Cell Bounds: IsValid=true, Min=(X=-1300992.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=1300992.000 Z=0.000)
+ |- Is 2D: True
+ |- [+] /Game/UkIslandMap.UkIslandMap:PersistentLevel.LandscapeStreamingProxy_CRXEWCMAV3R5MPDEGN5ILSMAH_2040_1_2_0
+ |   |-         Package: /Game/__ExternalActors__/UkIslandMap/3/R1/A0KE3YS3FR8PG9FFTJTND7
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: F70864D74146F9E39468929E5696EB76
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell UkIslandMap_MainPartition_L7_X-3_Y1 (5RJUENLCDS1LK67B3A2NLRIDX)
+ |- Actor Count: 2
+ |- Content Bounds: IsValid=true, Min=(X=-1816587.259 Y=931514.921 Z=0.000), Max=(X=-1388854.499 Y=1300992.000 Z=0.000)
+ |- Cell Bounds: IsValid=true, Min=(X=-1951488.000 Y=650496.000 Z=0.000), Max=(X=-1300992.000 Y=1300992.000 Z=0.000)
+ |- Is 2D: True
+ |- [+] /Game/UkIslandMap.UkIslandMap:PersistentLevel.PCGVolume_UAID_74563C652790EF4202_1104787262
+ |   |-         Package: /Game/__ExternalActors__/UkIslandMap/D/FK/91TUVI54AFU4MCF6702E48
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 1408F2C447C7554DF4C88D9BDB64B759
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/UkIslandMap.UkIslandMap:PersistentLevel.PCGVolume_UAID_74563C652790EE4202_1742273084
+ |   |-         Package: /Game/__ExternalActors__/UkIslandMap/D/SJ/J10F64L2Q9NM30I88XOY0Y
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: B0A238314A2456A445174293D09C879D
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell UkIslandMap_MainPartition_L8_X-2_Y-1 (6ADG7O5U0SW23EAZ87LTQO3WA)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=-2244000.000 Y=-1122000.000 Z=-0.000), Max=(X=-1300992.000 Y=0.000 Z=0.000)
+ |- Cell Bounds: IsValid=true, Min=(X=-2601984.000 Y=-1300992.000 Z=0.000), Max=(X=-1300992.000 Y=0.000 Z=0.000)
+ |- Is 2D: True
+ |- [+] /Game/UkIslandMap.UkIslandMap:PersistentLevel.LandscapeStreamingProxy_CRXEWCMAV3R5MPDEGN5ILSMAH_2040_0_1_0
+ |   |-         Package: /Game/__ExternalActors__/UkIslandMap/1/SB/EMAI69DE8QKBW9WF4Z38E7
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 36C7315B48C043449A3F0E9C84CBBB52
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell UkIslandMap_MainPartition_L8_X1_Y-2 (6DNVF79O2RZX8OVH3XIESI0QX)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=1300992.000 Y=-2244000.000 Z=-0.000), Max=(X=2244000.000 Y=-1300992.000 Z=0.000)
+ |- Cell Bounds: IsValid=true, Min=(X=1300992.000 Y=-2601984.000 Z=0.000), Max=(X=2601984.000 Y=-1300992.000 Z=0.000)
+ |- Is 2D: True
+ |- [+] /Game/UkIslandMap.UkIslandMap:PersistentLevel.LandscapeStreamingProxy_CRXEWCMAV3R5MPDEGN5ILSMAH_2040_3_0_0
+ |   |-         Package: /Game/__ExternalActors__/UkIslandMap/C/ZD/L371DJ4QKG24P703AC6FDY
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 7284146942BD4788CBBD2FB587E29857
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell UkIslandMap_MainPartition_L8_X1_Y-1 (7CRLURORUADY00JZENJG5RT5Y)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=1300992.000 Y=-1122000.000 Z=-0.000), Max=(X=2244000.000 Y=0.000 Z=0.000)
+ |- Cell Bounds: IsValid=true, Min=(X=1300992.000 Y=-1300992.000 Z=0.000), Max=(X=2601984.000 Y=0.000 Z=0.000)
+ |- Is 2D: True
+ |- [+] /Game/UkIslandMap.UkIslandMap:PersistentLevel.LandscapeStreamingProxy_CRXEWCMAV3R5MPDEGN5ILSMAH_2040_3_1_0
+ |   |-         Package: /Game/__ExternalActors__/UkIslandMap/1/PF/2YUELO32GYYIEXNXWJCZ3E
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 0ECF34D84C1AD57117E86490C2B277FA
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell UkIslandMap_MainPartition_L7_X-2_Y2 (8JT1T4QSXTIVI16R9TDPF6NZ1)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=-1049971.084 Y=1300992.000 Z=0.000), Max=(X=-650496.000 Y=1745917.787 Z=0.000)
+ |- Cell Bounds: IsValid=true, Min=(X=-1300992.000 Y=1300992.000 Z=0.000), Max=(X=-650496.000 Y=1951488.000 Z=0.000)
+ |- Is 2D: True
+ |- [+] /Game/UkIslandMap.UkIslandMap:PersistentLevel.PCGVolume_UAID_74563C652790EF4102_1192142199
+ |   |-         Package: /Game/__ExternalActors__/UkIslandMap/5/T7/1ZESW0SBB5VQLFDZZ129RL
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: BBB24EE8457551365B9D84BF8D9317D4
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell UkIslandMap_MainPartition_L5_X-9_Y7 (9RWNQBYNDMTRR1MFFUXC5IIW6)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=-1463616.000 Y=1181735.739 Z=0.000), Max=(X=-1371859.035 Y=1300992.000 Z=0.000)
+ |- Cell Bounds: IsValid=true, Min=(X=-1463616.000 Y=1138368.000 Z=0.000), Max=(X=-1300992.000 Y=1300992.000 Z=0.000)
+ |- Is 2D: True
+ |- [+] /Game/UkIslandMap.UkIslandMap:PersistentLevel.PCGVolume_UAID_74563C652790EF4202_2119334265
+ |   |-         Package: /Game/__ExternalActors__/UkIslandMap/A/N8/G33MIF4C2GKE5VWA3N524P
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: EEAFC34C42FEF84BA068B38A2CDC5112
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell UkIslandMap_MainPartition_L8_X1_Y1 (AVGWP4ZDJSBP56XGLJW8CLLL3)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=1300992.000 Y=1300992.000 Z=-0.000), Max=(X=2244000.000 Y=2244000.000 Z=0.000)
+ |- Cell Bounds: IsValid=true, Min=(X=1300992.000 Y=1300992.000 Z=0.000), Max=(X=2601984.000 Y=2601984.000 Z=0.000)
+ |- Is 2D: True
+ |- [+] /Game/UkIslandMap.UkIslandMap:PersistentLevel.LandscapeStreamingProxy_CRXEWCMAV3R5MPDEGN5ILSMAH_2040_3_3_0
+ |   |-         Package: /Game/__ExternalActors__/UkIslandMap/1/A9/YQEIISQXHE2CFDRGWKV61N
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 51E3BEA34B8ADA29BB0F3FAB6DFBCDB7
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell UkIslandMap_MainPartition_L8_X-2_Y0 (BPR29Q6P6U56QRK6FB9S7RIYS)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=-2244000.000 Y=0.000 Z=-0.000), Max=(X=-1300992.000 Y=1122000.000 Z=0.000)
+ |- Cell Bounds: IsValid=true, Min=(X=-2601984.000 Y=0.000 Z=0.000), Max=(X=-1300992.000 Y=1300992.000 Z=0.000)
+ |- Is 2D: True
+ |- [+] /Game/UkIslandMap.UkIslandMap:PersistentLevel.LandscapeStreamingProxy_CRXEWCMAV3R5MPDEGN5ILSMAH_2040_0_2_0
+ |   |-         Package: /Game/__ExternalActors__/UkIslandMap/5/Q4/5KJOCIFCCM6XT0KSPINSRZ
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: F809CF4B4B694C3706F18D9A8655C8FE
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell UkIslandMap_MainPartition_L8_X1_Y0 (C6AFHRFGBQYAWTW3PAC00GXL0)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=1300992.000 Y=0.000 Z=-0.000), Max=(X=2244000.000 Y=1122000.000 Z=0.000)
+ |- Cell Bounds: IsValid=true, Min=(X=1300992.000 Y=0.000 Z=0.000), Max=(X=2601984.000 Y=1300992.000 Z=0.000)
+ |- Is 2D: True
+ |- [+] /Game/UkIslandMap.UkIslandMap:PersistentLevel.LandscapeStreamingProxy_CRXEWCMAV3R5MPDEGN5ILSMAH_2040_3_2_0
+ |   |-         Package: /Game/__ExternalActors__/UkIslandMap/1/96/3GA4N2EEWFPBPSCEN3OL7K
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 9310FA384F6A9CC63370828A499EE1C8
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell UkIslandMap_MainPartition_L8_X-2_Y1 (CD0509A0G3EDK9PTQYXS8HM34)
+ |- Actor Count: 2
+ |- Content Bounds: IsValid=true, Min=(X=-2244000.000 Y=1300992.000 Z=-0.000), Max=(X=-1300992.000 Y=2244000.000 Z=0.000)
+ |- Cell Bounds: IsValid=true, Min=(X=-2601984.000 Y=1300992.000 Z=0.000), Max=(X=-1300992.000 Y=2601984.000 Z=0.000)
+ |- Is 2D: True
+ |- [+] /Game/UkIslandMap.UkIslandMap:PersistentLevel.PCGVolume_UAID_74563C652790EE4202_1527246083
+ |   |-         Package: /Game/__ExternalActors__/UkIslandMap/B/5N/042YSHMNV3X2AUA6WB0YDM
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 86A7D7144F56A4ABC7678D8C11A7F845
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/UkIslandMap.UkIslandMap:PersistentLevel.LandscapeStreamingProxy_CRXEWCMAV3R5MPDEGN5ILSMAH_2040_0_3_0
+ |   |-         Package: /Game/__ExternalActors__/UkIslandMap/E/Y7/3DFNWPQW9RIT1BJBSOR895
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: AFEC94934566340707A298B779A83A06
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell UkIslandMap_MainPartition_L8_X0_Y1 (CXSJMJ47560EHBR2KSGXFWWB6)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=0.000 Y=1300992.000 Z=-0.000), Max=(X=1122000.000 Y=2244000.000 Z=0.000)
+ |- Cell Bounds: IsValid=true, Min=(X=0.000 Y=1300992.000 Z=0.000), Max=(X=1300992.000 Y=2601984.000 Z=0.000)
+ |- Is 2D: True
+ |- [+] /Game/UkIslandMap.UkIslandMap:PersistentLevel.LandscapeStreamingProxy_CRXEWCMAV3R5MPDEGN5ILSMAH_2040_2_3_0
+ |   |-         Package: /Game/__ExternalActors__/UkIslandMap/4/WK/PJ6E5YSAZV4ZVJ9E2OEGC0
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: F6D0B14442739DAA98D738879DE4A6E2
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell UkIslandMap_MainPartition_L7_X-2_Y1 (D1KISPR5S3E8G58ZAH5L2VG7Y)
+ |- Actor Count: 2
+ |- Content Bounds: IsValid=true, Min=(X=-1300992.000 Y=853913.595 Z=0.000), Max=(X=-650496.000 Y=1300992.000 Z=0.000)
+ |- Cell Bounds: IsValid=true, Min=(X=-1300992.000 Y=650496.000 Z=0.000), Max=(X=-650496.000 Y=1300992.000 Z=0.000)
+ |- Is 2D: True
+ |- [+] /Game/UkIslandMap.UkIslandMap:PersistentLevel.PCGVolume_UAID_74563C652790EE4202_2039240085
+ |   |-         Package: /Game/__ExternalActors__/UkIslandMap/8/YW/6JXM2QIX5764QCTLJGOV54
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 222FEEF149A3AC83908D4A9061A873F0
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/UkIslandMap.UkIslandMap:PersistentLevel.PCGVolume_UAID_74563C652790F84102_1579961803
+ |   |-         Package: /Game/__ExternalActors__/UkIslandMap/7/9U/RVQ8SVHDRMQUFAAXTJ15MS
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 53673D59434FB373055D22B41BB9EFA5
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell UkIslandMap_MainPartition_L8_X-1_Y-2 (D2GASB279PCL6WXO4O2QRZDOG)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=-1122000.000 Y=-2244000.000 Z=-0.000), Max=(X=0.000 Y=-1300992.000 Z=0.000)
+ |- Cell Bounds: IsValid=true, Min=(X=-1300992.000 Y=-2601984.000 Z=0.000), Max=(X=0.000 Y=-1300992.000 Z=0.000)
+ |- Is 2D: True
+ |- [+] /Game/UkIslandMap.UkIslandMap:PersistentLevel.LandscapeStreamingProxy_CRXEWCMAV3R5MPDEGN5ILSMAH_2040_1_0_0
+ |   |-         Package: /Game/__ExternalActors__/UkIslandMap/C/QU/A4UG94QN9YTGLM6XI55ZIP
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: A905088C45AB648B75DDF4A9CAD746D3
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell UkIslandMap_MainPartition_L8_X-1_Y-1 (DKU3AYV3C0N91SZUS9780HFG7)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=-1122000.000 Y=-1122000.000 Z=-0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |- Cell Bounds: IsValid=true, Min=(X=-1300992.000 Y=-1300992.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |- Is 2D: True
+ |- [+] /Game/UkIslandMap.UkIslandMap:PersistentLevel.LandscapeStreamingProxy_CRXEWCMAV3R5MPDEGN5ILSMAH_2040_1_1_0
+ |   |-         Package: /Game/__ExternalActors__/UkIslandMap/2/AZ/QAUCD2TZC30UI52JKSWZIH
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 301228C6453ED4A96D82E68FAF5F2E28
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell UkIslandMap_MainPartition_L0_X-197_Y195 (EOSH4UJUG4WWW7EFNPKALZOMD)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=-998885.000 Y=995995.000 Z=0.000), Max=(X=-998812.408 Y=996065.000 Z=0.000)
+ |- Cell Bounds: IsValid=true, Min=(X=-1001154.000 Y=990990.000 Z=0.000), Max=(X=-996072.000 Y=996072.000 Z=0.000)
+ |- Is 2D: True
+ |- [+] /Game/UkIslandMap.UkIslandMap:PersistentLevel.BP_ThirdPersonCharacter_C_UAID_74563C652790454302_2121914391
+ |   |-         Package: /Game/__ExternalActors__/UkIslandMap/8/YZ/GM34MF8MWRLF9BH0OSYTPH
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: D9A0EF3049E9473E0E7AC1AAC207AE68
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+
